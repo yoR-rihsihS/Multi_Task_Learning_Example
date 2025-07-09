@@ -1,0 +1,1502 @@
+Number of parameters = 39800581
+Number of trainable parameters = 39800581
+Epoch 1 - Train Metrics:
+	Loss: 0.991044
+	Microaneurysms IoU: 0.0062,	Microaneurysms Dice Coefficient: 0.0123,	Microaneurysms Pixel Accuracy: 0.0115
+	Haemorrhages IoU: 0.0250,	Haemorrhages Dice Coefficient: 0.0489,	Haemorrhages Pixel Accuracy: 0.0713
+	Hard Exudates IoU: 0.0797,	Hard Exudates Dice Coefficient: 0.1476,	Hard Exudates Pixel Accuracy: 0.2256
+	Soft Exudates IoU: 0.0028,	Soft Exudates Dice Coefficient: 0.0057,	Soft Exudates Pixel Accuracy: 0.3766
+	Optic Disc IoU: 0.2827,	Optic Disc Dice Coefficient: 0.4407,	Optic Disc Pixel Accuracy: 0.6608
+Epoch 1 - Test Metrics:
+	Loss: 0.989844
+	Microaneurysms IoU: 0.0000,	Microaneurysms Dice Coefficient: 0.0000,	Microaneurysms Pixel Accuracy: 0.0000
+	Haemorrhages IoU: 0.0000,	Haemorrhages Dice Coefficient: 0.0000,	Haemorrhages Pixel Accuracy: 0.0000
+	Hard Exudates IoU: 0.0000,	Hard Exudates Dice Coefficient: 0.0000,	Hard Exudates Pixel Accuracy: 0.0000
+	Soft Exudates IoU: 0.0000,	Soft Exudates Dice Coefficient: 0.0000,	Soft Exudates Pixel Accuracy: 0.0000
+	Optic Disc IoU: 0.0000,	Optic Disc Dice Coefficient: 0.0000,	Optic Disc Pixel Accuracy: 0.0000
+
+Epoch 2 - Train Metrics:
+	Loss: 0.977568
+	Microaneurysms IoU: 0.0236,	Microaneurysms Dice Coefficient: 0.0461,	Microaneurysms Pixel Accuracy: 0.0371
+	Haemorrhages IoU: 0.0369,	Haemorrhages Dice Coefficient: 0.0713,	Haemorrhages Pixel Accuracy: 0.0541
+	Hard Exudates IoU: 0.1968,	Hard Exudates Dice Coefficient: 0.3288,	Hard Exudates Pixel Accuracy: 0.4301
+	Soft Exudates IoU: 0.0023,	Soft Exudates Dice Coefficient: 0.0045,	Soft Exudates Pixel Accuracy: 0.0911
+	Optic Disc IoU: 0.2235,	Optic Disc Dice Coefficient: 0.3654,	Optic Disc Pixel Accuracy: 0.9689
+Epoch 2 - Test Metrics:
+	Loss: 0.985794
+	Microaneurysms IoU: 0.0000,	Microaneurysms Dice Coefficient: 0.0000,	Microaneurysms Pixel Accuracy: 0.0000
+	Haemorrhages IoU: 0.0000,	Haemorrhages Dice Coefficient: 0.0000,	Haemorrhages Pixel Accuracy: 0.0000
+	Hard Exudates IoU: 0.0043,	Hard Exudates Dice Coefficient: 0.0086,	Hard Exudates Pixel Accuracy: 0.0043
+	Soft Exudates IoU: 0.0000,	Soft Exudates Dice Coefficient: 0.0000,	Soft Exudates Pixel Accuracy: 0.0000
+	Optic Disc IoU: 0.3278,	Optic Disc Dice Coefficient: 0.4938,	Optic Disc Pixel Accuracy: 0.3310
+
+Epoch 3 - Train Metrics:
+	Loss: 0.964790
+	Microaneurysms IoU: 0.0128,	Microaneurysms Dice Coefficient: 0.0252,	Microaneurysms Pixel Accuracy: 0.0153
+	Haemorrhages IoU: 0.0759,	Haemorrhages Dice Coefficient: 0.1411,	Haemorrhages Pixel Accuracy: 0.1013
+	Hard Exudates IoU: 0.2468,	Hard Exudates Dice Coefficient: 0.3959,	Hard Exudates Pixel Accuracy: 0.5475
+	Soft Exudates IoU: 0.0060,	Soft Exudates Dice Coefficient: 0.0119,	Soft Exudates Pixel Accuracy: 0.0640
+	Optic Disc IoU: 0.2320,	Optic Disc Dice Coefficient: 0.3766,	Optic Disc Pixel Accuracy: 0.9050
+Epoch 3 - Test Metrics:
+	Loss: 0.981014
+	Microaneurysms IoU: 0.0000,	Microaneurysms Dice Coefficient: 0.0000,	Microaneurysms Pixel Accuracy: 0.0000
+	Haemorrhages IoU: 0.0209,	Haemorrhages Dice Coefficient: 0.0410,	Haemorrhages Pixel Accuracy: 0.0215
+	Hard Exudates IoU: 0.0344,	Hard Exudates Dice Coefficient: 0.0665,	Hard Exudates Pixel Accuracy: 0.0347
+	Soft Exudates IoU: 0.0000,	Soft Exudates Dice Coefficient: 0.0000,	Soft Exudates Pixel Accuracy: 0.0000
+	Optic Disc IoU: 0.5211,	Optic Disc Dice Coefficient: 0.6851,	Optic Disc Pixel Accuracy: 0.9731
+
+Epoch 4 - Train Metrics:
+	Loss: 0.951289
+	Microaneurysms IoU: 0.0106,	Microaneurysms Dice Coefficient: 0.0209,	Microaneurysms Pixel Accuracy: 0.0128
+	Haemorrhages IoU: 0.0839,	Haemorrhages Dice Coefficient: 0.1549,	Haemorrhages Pixel Accuracy: 0.1236
+	Hard Exudates IoU: 0.2730,	Hard Exudates Dice Coefficient: 0.4289,	Hard Exudates Pixel Accuracy: 0.5022
+	Soft Exudates IoU: 0.0059,	Soft Exudates Dice Coefficient: 0.0117,	Soft Exudates Pixel Accuracy: 0.0183
+	Optic Disc IoU: 0.5408,	Optic Disc Dice Coefficient: 0.7020,	Optic Disc Pixel Accuracy: 0.9337
+Epoch 4 - Test Metrics:
+	Loss: 0.975494
+	Microaneurysms IoU: 0.0140,	Microaneurysms Dice Coefficient: 0.0275,	Microaneurysms Pixel Accuracy: 0.0147
+	Haemorrhages IoU: 0.0446,	Haemorrhages Dice Coefficient: 0.0855,	Haemorrhages Pixel Accuracy: 0.0476
+	Hard Exudates IoU: 0.1031,	Hard Exudates Dice Coefficient: 0.1869,	Hard Exudates Pixel Accuracy: 0.1100
+	Soft Exudates IoU: 0.0000,	Soft Exudates Dice Coefficient: 0.0000,	Soft Exudates Pixel Accuracy: 0.0000
+	Optic Disc IoU: 0.6855,	Optic Disc Dice Coefficient: 0.8134,	Optic Disc Pixel Accuracy: 0.9661
+
+Epoch 5 - Train Metrics:
+	Loss: 0.943513
+	Microaneurysms IoU: 0.0225,	Microaneurysms Dice Coefficient: 0.0440,	Microaneurysms Pixel Accuracy: 0.0297
+	Haemorrhages IoU: 0.0681,	Haemorrhages Dice Coefficient: 0.1275,	Haemorrhages Pixel Accuracy: 0.0831
+	Hard Exudates IoU: 0.2817,	Hard Exudates Dice Coefficient: 0.4396,	Hard Exudates Pixel Accuracy: 0.5698
+	Soft Exudates IoU: 0.0110,	Soft Exudates Dice Coefficient: 0.0218,	Soft Exudates Pixel Accuracy: 0.0273
+	Optic Disc IoU: 0.3991,	Optic Disc Dice Coefficient: 0.5706,	Optic Disc Pixel Accuracy: 0.8510
+Epoch 5 - Test Metrics:
+	Loss: 0.972758
+	Microaneurysms IoU: 0.0165,	Microaneurysms Dice Coefficient: 0.0325,	Microaneurysms Pixel Accuracy: 0.0180
+	Haemorrhages IoU: 0.0725,	Haemorrhages Dice Coefficient: 0.1351,	Haemorrhages Pixel Accuracy: 0.0807
+	Hard Exudates IoU: 0.1263,	Hard Exudates Dice Coefficient: 0.2242,	Hard Exudates Pixel Accuracy: 0.1391
+	Soft Exudates IoU: 0.0000,	Soft Exudates Dice Coefficient: 0.0000,	Soft Exudates Pixel Accuracy: 0.0000
+	Optic Disc IoU: 0.6542,	Optic Disc Dice Coefficient: 0.7910,	Optic Disc Pixel Accuracy: 0.9872
+
+Epoch 6 - Train Metrics:
+	Loss: 0.932006
+	Microaneurysms IoU: 0.0176,	Microaneurysms Dice Coefficient: 0.0346,	Microaneurysms Pixel Accuracy: 0.0207
+	Haemorrhages IoU: 0.0961,	Haemorrhages Dice Coefficient: 0.1753,	Haemorrhages Pixel Accuracy: 0.1225
+	Hard Exudates IoU: 0.2756,	Hard Exudates Dice Coefficient: 0.4321,	Hard Exudates Pixel Accuracy: 0.5463
+	Soft Exudates IoU: 0.0149,	Soft Exudates Dice Coefficient: 0.0294,	Soft Exudates Pixel Accuracy: 0.0276
+	Optic Disc IoU: 0.6342,	Optic Disc Dice Coefficient: 0.7762,	Optic Disc Pixel Accuracy: 0.9332
+Epoch 6 - Test Metrics:
+	Loss: 0.965731
+	Microaneurysms IoU: 0.0139,	Microaneurysms Dice Coefficient: 0.0275,	Microaneurysms Pixel Accuracy: 0.0147
+	Haemorrhages IoU: 0.1186,	Haemorrhages Dice Coefficient: 0.2121,	Haemorrhages Pixel Accuracy: 0.1479
+	Hard Exudates IoU: 0.1312,	Hard Exudates Dice Coefficient: 0.2320,	Hard Exudates Pixel Accuracy: 0.1484
+	Soft Exudates IoU: 0.0066,	Soft Exudates Dice Coefficient: 0.0131,	Soft Exudates Pixel Accuracy: 0.0067
+	Optic Disc IoU: 0.7180,	Optic Disc Dice Coefficient: 0.8359,	Optic Disc Pixel Accuracy: 0.9819
+
+Epoch 7 - Train Metrics:
+	Loss: 0.916071
+	Microaneurysms IoU: 0.0121,	Microaneurysms Dice Coefficient: 0.0239,	Microaneurysms Pixel Accuracy: 0.0142
+	Haemorrhages IoU: 0.0849,	Haemorrhages Dice Coefficient: 0.1566,	Haemorrhages Pixel Accuracy: 0.1034
+	Hard Exudates IoU: 0.2409,	Hard Exudates Dice Coefficient: 0.3883,	Hard Exudates Pixel Accuracy: 0.5505
+	Soft Exudates IoU: 0.0085,	Soft Exudates Dice Coefficient: 0.0169,	Soft Exudates Pixel Accuracy: 0.0137
+	Optic Disc IoU: 0.6339,	Optic Disc Dice Coefficient: 0.7760,	Optic Disc Pixel Accuracy: 0.8985
+Epoch 7 - Test Metrics:
+	Loss: 0.957453
+	Microaneurysms IoU: 0.0166,	Microaneurysms Dice Coefficient: 0.0327,	Microaneurysms Pixel Accuracy: 0.0195
+	Haemorrhages IoU: 0.1416,	Haemorrhages Dice Coefficient: 0.2481,	Haemorrhages Pixel Accuracy: 0.1849
+	Hard Exudates IoU: 0.1614,	Hard Exudates Dice Coefficient: 0.2779,	Hard Exudates Pixel Accuracy: 0.2083
+	Soft Exudates IoU: 0.0114,	Soft Exudates Dice Coefficient: 0.0226,	Soft Exudates Pixel Accuracy: 0.0121
+	Optic Disc IoU: 0.6043,	Optic Disc Dice Coefficient: 0.7533,	Optic Disc Pixel Accuracy: 0.9953
+
+Epoch 8 - Train Metrics:
+	Loss: 0.922229
+	Microaneurysms IoU: 0.0186,	Microaneurysms Dice Coefficient: 0.0365,	Microaneurysms Pixel Accuracy: 0.0221
+	Haemorrhages IoU: 0.1358,	Haemorrhages Dice Coefficient: 0.2391,	Haemorrhages Pixel Accuracy: 0.1876
+	Hard Exudates IoU: 0.2634,	Hard Exudates Dice Coefficient: 0.4170,	Hard Exudates Pixel Accuracy: 0.5947
+	Soft Exudates IoU: 0.0174,	Soft Exudates Dice Coefficient: 0.0342,	Soft Exudates Pixel Accuracy: 0.0336
+	Optic Disc IoU: 0.7020,	Optic Disc Dice Coefficient: 0.8249,	Optic Disc Pixel Accuracy: 0.9608
+Epoch 8 - Test Metrics:
+	Loss: 0.935920
+	Microaneurysms IoU: 0.0183,	Microaneurysms Dice Coefficient: 0.0360,	Microaneurysms Pixel Accuracy: 0.0218
+	Haemorrhages IoU: 0.1782,	Haemorrhages Dice Coefficient: 0.3024,	Haemorrhages Pixel Accuracy: 0.3023
+	Hard Exudates IoU: 0.1576,	Hard Exudates Dice Coefficient: 0.2723,	Hard Exudates Pixel Accuracy: 0.1836
+	Soft Exudates IoU: 0.0114,	Soft Exudates Dice Coefficient: 0.0225,	Soft Exudates Pixel Accuracy: 0.0116
+	Optic Disc IoU: 0.6835,	Optic Disc Dice Coefficient: 0.8120,	Optic Disc Pixel Accuracy: 0.9929
+
+Epoch 9 - Train Metrics:
+	Loss: 0.915418
+	Microaneurysms IoU: 0.0156,	Microaneurysms Dice Coefficient: 0.0307,	Microaneurysms Pixel Accuracy: 0.0184
+	Haemorrhages IoU: 0.1440,	Haemorrhages Dice Coefficient: 0.2517,	Haemorrhages Pixel Accuracy: 0.2208
+	Hard Exudates IoU: 0.3280,	Hard Exudates Dice Coefficient: 0.4939,	Hard Exudates Pixel Accuracy: 0.6754
+	Soft Exudates IoU: 0.0197,	Soft Exudates Dice Coefficient: 0.0387,	Soft Exudates Pixel Accuracy: 0.0378
+	Optic Disc IoU: 0.6506,	Optic Disc Dice Coefficient: 0.7883,	Optic Disc Pixel Accuracy: 0.8998
+Epoch 9 - Test Metrics:
+	Loss: 0.915396
+	Microaneurysms IoU: 0.0180,	Microaneurysms Dice Coefficient: 0.0354,	Microaneurysms Pixel Accuracy: 0.0234
+	Haemorrhages IoU: 0.1837,	Haemorrhages Dice Coefficient: 0.3104,	Haemorrhages Pixel Accuracy: 0.3281
+	Hard Exudates IoU: 0.1421,	Hard Exudates Dice Coefficient: 0.2488,	Hard Exudates Pixel Accuracy: 0.1558
+	Soft Exudates IoU: 0.0159,	Soft Exudates Dice Coefficient: 0.0314,	Soft Exudates Pixel Accuracy: 0.0161
+	Optic Disc IoU: 0.8331,	Optic Disc Dice Coefficient: 0.9089,	Optic Disc Pixel Accuracy: 0.9331
+
+Epoch 10 - Train Metrics:
+	Loss: 0.899766
+	Microaneurysms IoU: 0.0211,	Microaneurysms Dice Coefficient: 0.0414,	Microaneurysms Pixel Accuracy: 0.0273
+	Haemorrhages IoU: 0.1830,	Haemorrhages Dice Coefficient: 0.3093,	Haemorrhages Pixel Accuracy: 0.3065
+	Hard Exudates IoU: 0.3347,	Hard Exudates Dice Coefficient: 0.5016,	Hard Exudates Pixel Accuracy: 0.6223
+	Soft Exudates IoU: 0.0286,	Soft Exudates Dice Coefficient: 0.0557,	Soft Exudates Pixel Accuracy: 0.0531
+	Optic Disc IoU: 0.6618,	Optic Disc Dice Coefficient: 0.7965,	Optic Disc Pixel Accuracy: 0.8682
+Epoch 10 - Test Metrics:
+	Loss: 0.936121
+	Microaneurysms IoU: 0.0304,	Microaneurysms Dice Coefficient: 0.0590,	Microaneurysms Pixel Accuracy: 0.0473
+	Haemorrhages IoU: 0.1864,	Haemorrhages Dice Coefficient: 0.3143,	Haemorrhages Pixel Accuracy: 0.2756
+	Hard Exudates IoU: 0.1497,	Hard Exudates Dice Coefficient: 0.2604,	Hard Exudates Pixel Accuracy: 0.1667
+	Soft Exudates IoU: 0.0242,	Soft Exudates Dice Coefficient: 0.0473,	Soft Exudates Pixel Accuracy: 0.0245
+	Optic Disc IoU: 0.5959,	Optic Disc Dice Coefficient: 0.7468,	Optic Disc Pixel Accuracy: 0.9992
+
+Epoch 11 - Train Metrics:
+	Loss: 0.898569
+	Microaneurysms IoU: 0.0298,	Microaneurysms Dice Coefficient: 0.0579,	Microaneurysms Pixel Accuracy: 0.0377
+	Haemorrhages IoU: 0.1583,	Haemorrhages Dice Coefficient: 0.2733,	Haemorrhages Pixel Accuracy: 0.2232
+	Hard Exudates IoU: 0.3395,	Hard Exudates Dice Coefficient: 0.5070,	Hard Exudates Pixel Accuracy: 0.6354
+	Soft Exudates IoU: 0.0123,	Soft Exudates Dice Coefficient: 0.0242,	Soft Exudates Pixel Accuracy: 0.0233
+	Optic Disc IoU: 0.7219,	Optic Disc Dice Coefficient: 0.8385,	Optic Disc Pixel Accuracy: 0.8932
+Epoch 11 - Test Metrics:
+	Loss: 0.929126
+	Microaneurysms IoU: 0.0324,	Microaneurysms Dice Coefficient: 0.0628,	Microaneurysms Pixel Accuracy: 0.0529
+	Haemorrhages IoU: 0.1832,	Haemorrhages Dice Coefficient: 0.3097,	Haemorrhages Pixel Accuracy: 0.2634
+	Hard Exudates IoU: 0.1545,	Hard Exudates Dice Coefficient: 0.2677,	Hard Exudates Pixel Accuracy: 0.1765
+	Soft Exudates IoU: 0.0232,	Soft Exudates Dice Coefficient: 0.0453,	Soft Exudates Pixel Accuracy: 0.0232
+	Optic Disc IoU: 0.7457,	Optic Disc Dice Coefficient: 0.8543,	Optic Disc Pixel Accuracy: 0.9926
+
+Epoch 12 - Train Metrics:
+	Loss: 0.893265
+	Microaneurysms IoU: 0.0360,	Microaneurysms Dice Coefficient: 0.0695,	Microaneurysms Pixel Accuracy: 0.0538
+	Haemorrhages IoU: 0.1792,	Haemorrhages Dice Coefficient: 0.3039,	Haemorrhages Pixel Accuracy: 0.2524
+	Hard Exudates IoU: 0.3925,	Hard Exudates Dice Coefficient: 0.5638,	Hard Exudates Pixel Accuracy: 0.6748
+	Soft Exudates IoU: 0.0203,	Soft Exudates Dice Coefficient: 0.0398,	Soft Exudates Pixel Accuracy: 0.0328
+	Optic Disc IoU: 0.7051,	Optic Disc Dice Coefficient: 0.8270,	Optic Disc Pixel Accuracy: 0.8925
+Epoch 12 - Test Metrics:
+	Loss: 0.931709
+	Microaneurysms IoU: 0.0394,	Microaneurysms Dice Coefficient: 0.0758,	Microaneurysms Pixel Accuracy: 0.0657
+	Haemorrhages IoU: 0.1716,	Haemorrhages Dice Coefficient: 0.2930,	Haemorrhages Pixel Accuracy: 0.3169
+	Hard Exudates IoU: 0.1560,	Hard Exudates Dice Coefficient: 0.2698,	Hard Exudates Pixel Accuracy: 0.1774
+	Soft Exudates IoU: 0.0216,	Soft Exudates Dice Coefficient: 0.0422,	Soft Exudates Pixel Accuracy: 0.0216
+	Optic Disc IoU: 0.7852,	Optic Disc Dice Coefficient: 0.8797,	Optic Disc Pixel Accuracy: 0.9859
+
+Epoch 13 - Train Metrics:
+	Loss: 0.884301
+	Microaneurysms IoU: 0.0408,	Microaneurysms Dice Coefficient: 0.0783,	Microaneurysms Pixel Accuracy: 0.0579
+	Haemorrhages IoU: 0.1838,	Haemorrhages Dice Coefficient: 0.3105,	Haemorrhages Pixel Accuracy: 0.3425
+	Hard Exudates IoU: 0.3384,	Hard Exudates Dice Coefficient: 0.5056,	Hard Exudates Pixel Accuracy: 0.5766
+	Soft Exudates IoU: 0.0267,	Soft Exudates Dice Coefficient: 0.0521,	Soft Exudates Pixel Accuracy: 0.0432
+	Optic Disc IoU: 0.7254,	Optic Disc Dice Coefficient: 0.8409,	Optic Disc Pixel Accuracy: 0.8500
+Epoch 13 - Test Metrics:
+	Loss: 0.935784
+	Microaneurysms IoU: 0.0439,	Microaneurysms Dice Coefficient: 0.0842,	Microaneurysms Pixel Accuracy: 0.0826
+	Haemorrhages IoU: 0.1625,	Haemorrhages Dice Coefficient: 0.2796,	Haemorrhages Pixel Accuracy: 0.3593
+	Hard Exudates IoU: 0.1663,	Hard Exudates Dice Coefficient: 0.2852,	Hard Exudates Pixel Accuracy: 0.2015
+	Soft Exudates IoU: 0.0276,	Soft Exudates Dice Coefficient: 0.0537,	Soft Exudates Pixel Accuracy: 0.0276
+	Optic Disc IoU: 0.7026,	Optic Disc Dice Coefficient: 0.8253,	Optic Disc Pixel Accuracy: 0.9951
+
+Epoch 14 - Train Metrics:
+	Loss: 0.864494
+	Microaneurysms IoU: 0.0322,	Microaneurysms Dice Coefficient: 0.0623,	Microaneurysms Pixel Accuracy: 0.0451
+	Haemorrhages IoU: 0.1845,	Haemorrhages Dice Coefficient: 0.3116,	Haemorrhages Pixel Accuracy: 0.3089
+	Hard Exudates IoU: 0.3688,	Hard Exudates Dice Coefficient: 0.5389,	Hard Exudates Pixel Accuracy: 0.6547
+	Soft Exudates IoU: 0.0285,	Soft Exudates Dice Coefficient: 0.0555,	Soft Exudates Pixel Accuracy: 0.0433
+	Optic Disc IoU: 0.7954,	Optic Disc Dice Coefficient: 0.8860,	Optic Disc Pixel Accuracy: 0.9069
+Epoch 14 - Test Metrics:
+	Loss: 0.917789
+	Microaneurysms IoU: 0.0459,	Microaneurysms Dice Coefficient: 0.0879,	Microaneurysms Pixel Accuracy: 0.0989
+	Haemorrhages IoU: 0.1732,	Haemorrhages Dice Coefficient: 0.2952,	Haemorrhages Pixel Accuracy: 0.3911
+	Hard Exudates IoU: 0.1644,	Hard Exudates Dice Coefficient: 0.2824,	Hard Exudates Pixel Accuracy: 0.1924
+	Soft Exudates IoU: 0.0330,	Soft Exudates Dice Coefficient: 0.0639,	Soft Exudates Pixel Accuracy: 0.0330
+	Optic Disc IoU: 0.8092,	Optic Disc Dice Coefficient: 0.8946,	Optic Disc Pixel Accuracy: 0.9731
+
+Epoch 15 - Train Metrics:
+	Loss: 0.872185
+	Microaneurysms IoU: 0.0420,	Microaneurysms Dice Coefficient: 0.0805,	Microaneurysms Pixel Accuracy: 0.0679
+	Haemorrhages IoU: 0.1834,	Haemorrhages Dice Coefficient: 0.3100,	Haemorrhages Pixel Accuracy: 0.3142
+	Hard Exudates IoU: 0.3683,	Hard Exudates Dice Coefficient: 0.5384,	Hard Exudates Pixel Accuracy: 0.5607
+	Soft Exudates IoU: 0.0108,	Soft Exudates Dice Coefficient: 0.0214,	Soft Exudates Pixel Accuracy: 0.0148
+	Optic Disc IoU: 0.7118,	Optic Disc Dice Coefficient: 0.8317,	Optic Disc Pixel Accuracy: 0.8438
+Epoch 15 - Test Metrics:
+	Loss: 0.870348
+	Microaneurysms IoU: 0.0474,	Microaneurysms Dice Coefficient: 0.0905,	Microaneurysms Pixel Accuracy: 0.1138
+	Haemorrhages IoU: 0.1913,	Haemorrhages Dice Coefficient: 0.3212,	Haemorrhages Pixel Accuracy: 0.4732
+	Hard Exudates IoU: 0.1576,	Hard Exudates Dice Coefficient: 0.2723,	Hard Exudates Pixel Accuracy: 0.1765
+	Soft Exudates IoU: 0.0624,	Soft Exudates Dice Coefficient: 0.1174,	Soft Exudates Pixel Accuracy: 0.0627
+	Optic Disc IoU: 0.7584,	Optic Disc Dice Coefficient: 0.8626,	Optic Disc Pixel Accuracy: 0.9799
+
+Epoch 16 - Train Metrics:
+	Loss: 0.870707
+	Microaneurysms IoU: 0.0424,	Microaneurysms Dice Coefficient: 0.0813,	Microaneurysms Pixel Accuracy: 0.0639
+	Haemorrhages IoU: 0.2226,	Haemorrhages Dice Coefficient: 0.3642,	Haemorrhages Pixel Accuracy: 0.4297
+	Hard Exudates IoU: 0.3785,	Hard Exudates Dice Coefficient: 0.5491,	Hard Exudates Pixel Accuracy: 0.7038
+	Soft Exudates IoU: 0.1052,	Soft Exudates Dice Coefficient: 0.1904,	Soft Exudates Pixel Accuracy: 0.1791
+	Optic Disc IoU: 0.7192,	Optic Disc Dice Coefficient: 0.8366,	Optic Disc Pixel Accuracy: 0.9258
+Epoch 16 - Test Metrics:
+	Loss: 0.838262
+	Microaneurysms IoU: 0.0490,	Microaneurysms Dice Coefficient: 0.0934,	Microaneurysms Pixel Accuracy: 0.1060
+	Haemorrhages IoU: 0.2135,	Haemorrhages Dice Coefficient: 0.3518,	Haemorrhages Pixel Accuracy: 0.4562
+	Hard Exudates IoU: 0.1374,	Hard Exudates Dice Coefficient: 0.2415,	Hard Exudates Pixel Accuracy: 0.1486
+	Soft Exudates IoU: 0.0701,	Soft Exudates Dice Coefficient: 0.1311,	Soft Exudates Pixel Accuracy: 0.0713
+	Optic Disc IoU: 0.8152,	Optic Disc Dice Coefficient: 0.8982,	Optic Disc Pixel Accuracy: 0.9562
+
+Epoch 17 - Train Metrics:
+	Loss: 0.875804
+	Microaneurysms IoU: 0.0439,	Microaneurysms Dice Coefficient: 0.0842,	Microaneurysms Pixel Accuracy: 0.0717
+	Haemorrhages IoU: 0.1893,	Haemorrhages Dice Coefficient: 0.3183,	Haemorrhages Pixel Accuracy: 0.3710
+	Hard Exudates IoU: 0.2888,	Hard Exudates Dice Coefficient: 0.4481,	Hard Exudates Pixel Accuracy: 0.4988
+	Soft Exudates IoU: 0.0985,	Soft Exudates Dice Coefficient: 0.1794,	Soft Exudates Pixel Accuracy: 0.1478
+	Optic Disc IoU: 0.6624,	Optic Disc Dice Coefficient: 0.7970,	Optic Disc Pixel Accuracy: 0.8587
+Epoch 17 - Test Metrics:
+	Loss: 0.826560
+	Microaneurysms IoU: 0.0526,	Microaneurysms Dice Coefficient: 0.0999,	Microaneurysms Pixel Accuracy: 0.1209
+	Haemorrhages IoU: 0.2218,	Haemorrhages Dice Coefficient: 0.3631,	Haemorrhages Pixel Accuracy: 0.4158
+	Hard Exudates IoU: 0.1470,	Hard Exudates Dice Coefficient: 0.2563,	Hard Exudates Pixel Accuracy: 0.1582
+	Soft Exudates IoU: 0.0989,	Soft Exudates Dice Coefficient: 0.1799,	Soft Exudates Pixel Accuracy: 0.1030
+	Optic Disc IoU: 0.8469,	Optic Disc Dice Coefficient: 0.9171,	Optic Disc Pixel Accuracy: 0.9708
+
+Epoch 18 - Train Metrics:
+	Loss: 0.852840
+	Microaneurysms IoU: 0.0446,	Microaneurysms Dice Coefficient: 0.0854,	Microaneurysms Pixel Accuracy: 0.0782
+	Haemorrhages IoU: 0.2101,	Haemorrhages Dice Coefficient: 0.3472,	Haemorrhages Pixel Accuracy: 0.3578
+	Hard Exudates IoU: 0.3871,	Hard Exudates Dice Coefficient: 0.5582,	Hard Exudates Pixel Accuracy: 0.6040
+	Soft Exudates IoU: 0.1196,	Soft Exudates Dice Coefficient: 0.2137,	Soft Exudates Pixel Accuracy: 0.2239
+	Optic Disc IoU: 0.8122,	Optic Disc Dice Coefficient: 0.8964,	Optic Disc Pixel Accuracy: 0.9047
+Epoch 18 - Test Metrics:
+	Loss: 0.852680
+	Microaneurysms IoU: 0.0524,	Microaneurysms Dice Coefficient: 0.0995,	Microaneurysms Pixel Accuracy: 0.1502
+	Haemorrhages IoU: 0.2133,	Haemorrhages Dice Coefficient: 0.3516,	Haemorrhages Pixel Accuracy: 0.4573
+	Hard Exudates IoU: 0.1585,	Hard Exudates Dice Coefficient: 0.2737,	Hard Exudates Pixel Accuracy: 0.1749
+	Soft Exudates IoU: 0.1457,	Soft Exudates Dice Coefficient: 0.2543,	Soft Exudates Pixel Accuracy: 0.1686
+	Optic Disc IoU: 0.8238,	Optic Disc Dice Coefficient: 0.9034,	Optic Disc Pixel Accuracy: 0.9824
+
+Epoch 19 - Train Metrics:
+	Loss: 0.844223
+	Microaneurysms IoU: 0.0452,	Microaneurysms Dice Coefficient: 0.0866,	Microaneurysms Pixel Accuracy: 0.0757
+	Haemorrhages IoU: 0.1675,	Haemorrhages Dice Coefficient: 0.2869,	Haemorrhages Pixel Accuracy: 0.3025
+	Hard Exudates IoU: 0.4296,	Hard Exudates Dice Coefficient: 0.6010,	Hard Exudates Pixel Accuracy: 0.6293
+	Soft Exudates IoU: 0.0826,	Soft Exudates Dice Coefficient: 0.1525,	Soft Exudates Pixel Accuracy: 0.1787
+	Optic Disc IoU: 0.8145,	Optic Disc Dice Coefficient: 0.8978,	Optic Disc Pixel Accuracy: 0.9095
+Epoch 19 - Test Metrics:
+	Loss: 0.884368
+	Microaneurysms IoU: 0.0610,	Microaneurysms Dice Coefficient: 0.1150,	Microaneurysms Pixel Accuracy: 0.1526
+	Haemorrhages IoU: 0.1916,	Haemorrhages Dice Coefficient: 0.3216,	Haemorrhages Pixel Accuracy: 0.5044
+	Hard Exudates IoU: 0.1502,	Hard Exudates Dice Coefficient: 0.2611,	Hard Exudates Pixel Accuracy: 0.1622
+	Soft Exudates IoU: 0.1302,	Soft Exudates Dice Coefficient: 0.2303,	Soft Exudates Pixel Accuracy: 0.1359
+	Optic Disc IoU: 0.8305,	Optic Disc Dice Coefficient: 0.9074,	Optic Disc Pixel Accuracy: 0.9802
+
+Epoch 20 - Train Metrics:
+	Loss: 0.842850
+	Microaneurysms IoU: 0.0576,	Microaneurysms Dice Coefficient: 0.1090,	Microaneurysms Pixel Accuracy: 0.0915
+	Haemorrhages IoU: 0.2052,	Haemorrhages Dice Coefficient: 0.3405,	Haemorrhages Pixel Accuracy: 0.3736
+	Hard Exudates IoU: 0.3345,	Hard Exudates Dice Coefficient: 0.5014,	Hard Exudates Pixel Accuracy: 0.6102
+	Soft Exudates IoU: 0.1471,	Soft Exudates Dice Coefficient: 0.2564,	Soft Exudates Pixel Accuracy: 0.2176
+	Optic Disc IoU: 0.7903,	Optic Disc Dice Coefficient: 0.8829,	Optic Disc Pixel Accuracy: 0.9167
+Epoch 20 - Test Metrics:
+	Loss: 0.884461
+	Microaneurysms IoU: 0.0617,	Microaneurysms Dice Coefficient: 0.1163,	Microaneurysms Pixel Accuracy: 0.1537
+	Haemorrhages IoU: 0.2125,	Haemorrhages Dice Coefficient: 0.3505,	Haemorrhages Pixel Accuracy: 0.4434
+	Hard Exudates IoU: 0.1652,	Hard Exudates Dice Coefficient: 0.2836,	Hard Exudates Pixel Accuracy: 0.1844
+	Soft Exudates IoU: 0.1417,	Soft Exudates Dice Coefficient: 0.2482,	Soft Exudates Pixel Accuracy: 0.1476
+	Optic Disc IoU: 0.8369,	Optic Disc Dice Coefficient: 0.9112,	Optic Disc Pixel Accuracy: 0.9788
+
+Epoch 21 - Train Metrics:
+	Loss: 0.849366
+	Microaneurysms IoU: 0.0539,	Microaneurysms Dice Coefficient: 0.1023,	Microaneurysms Pixel Accuracy: 0.1022
+	Haemorrhages IoU: 0.2113,	Haemorrhages Dice Coefficient: 0.3489,	Haemorrhages Pixel Accuracy: 0.3407
+	Hard Exudates IoU: 0.3638,	Hard Exudates Dice Coefficient: 0.5335,	Hard Exudates Pixel Accuracy: 0.7076
+	Soft Exudates IoU: 0.1548,	Soft Exudates Dice Coefficient: 0.2680,	Soft Exudates Pixel Accuracy: 0.2070
+	Optic Disc IoU: 0.8005,	Optic Disc Dice Coefficient: 0.8892,	Optic Disc Pixel Accuracy: 0.9145
+Epoch 21 - Test Metrics:
+	Loss: 0.886516
+	Microaneurysms IoU: 0.0616,	Microaneurysms Dice Coefficient: 0.1161,	Microaneurysms Pixel Accuracy: 0.1804
+	Haemorrhages IoU: 0.1941,	Haemorrhages Dice Coefficient: 0.3252,	Haemorrhages Pixel Accuracy: 0.4932
+	Hard Exudates IoU: 0.1652,	Hard Exudates Dice Coefficient: 0.2836,	Hard Exudates Pixel Accuracy: 0.1802
+	Soft Exudates IoU: 0.1729,	Soft Exudates Dice Coefficient: 0.2948,	Soft Exudates Pixel Accuracy: 0.1871
+	Optic Disc IoU: 0.8681,	Optic Disc Dice Coefficient: 0.9294,	Optic Disc Pixel Accuracy: 0.9605
+
+Epoch 22 - Train Metrics:
+	Loss: 0.837039
+	Microaneurysms IoU: 0.0645,	Microaneurysms Dice Coefficient: 0.1211,	Microaneurysms Pixel Accuracy: 0.1237
+	Haemorrhages IoU: 0.2298,	Haemorrhages Dice Coefficient: 0.3737,	Haemorrhages Pixel Accuracy: 0.4339
+	Hard Exudates IoU: 0.3839,	Hard Exudates Dice Coefficient: 0.5548,	Hard Exudates Pixel Accuracy: 0.6251
+	Soft Exudates IoU: 0.1795,	Soft Exudates Dice Coefficient: 0.3044,	Soft Exudates Pixel Accuracy: 0.2917
+	Optic Disc IoU: 0.7634,	Optic Disc Dice Coefficient: 0.8658,	Optic Disc Pixel Accuracy: 0.8917
+Epoch 22 - Test Metrics:
+	Loss: 0.933274
+	Microaneurysms IoU: 0.0616,	Microaneurysms Dice Coefficient: 0.1160,	Microaneurysms Pixel Accuracy: 0.1615
+	Haemorrhages IoU: 0.2033,	Haemorrhages Dice Coefficient: 0.3379,	Haemorrhages Pixel Accuracy: 0.4437
+	Hard Exudates IoU: 0.1699,	Hard Exudates Dice Coefficient: 0.2904,	Hard Exudates Pixel Accuracy: 0.1821
+	Soft Exudates IoU: 0.1952,	Soft Exudates Dice Coefficient: 0.3267,	Soft Exudates Pixel Accuracy: 0.2198
+	Optic Disc IoU: 0.7860,	Optic Disc Dice Coefficient: 0.8802,	Optic Disc Pixel Accuracy: 0.9952
+
+Epoch 23 - Train Metrics:
+	Loss: 0.829280
+	Microaneurysms IoU: 0.0585,	Microaneurysms Dice Coefficient: 0.1106,	Microaneurysms Pixel Accuracy: 0.1145
+	Haemorrhages IoU: 0.2228,	Haemorrhages Dice Coefficient: 0.3644,	Haemorrhages Pixel Accuracy: 0.3754
+	Hard Exudates IoU: 0.4515,	Hard Exudates Dice Coefficient: 0.6222,	Hard Exudates Pixel Accuracy: 0.5922
+	Soft Exudates IoU: 0.1624,	Soft Exudates Dice Coefficient: 0.2794,	Soft Exudates Pixel Accuracy: 0.3472
+	Optic Disc IoU: 0.7554,	Optic Disc Dice Coefficient: 0.8607,	Optic Disc Pixel Accuracy: 0.9611
+Epoch 23 - Test Metrics:
+	Loss: 0.927021
+	Microaneurysms IoU: 0.0599,	Microaneurysms Dice Coefficient: 0.1130,	Microaneurysms Pixel Accuracy: 0.1932
+	Haemorrhages IoU: 0.2161,	Haemorrhages Dice Coefficient: 0.3554,	Haemorrhages Pixel Accuracy: 0.3963
+	Hard Exudates IoU: 0.1728,	Hard Exudates Dice Coefficient: 0.2946,	Hard Exudates Pixel Accuracy: 0.1879
+	Soft Exudates IoU: 0.2262,	Soft Exudates Dice Coefficient: 0.3689,	Soft Exudates Pixel Accuracy: 0.2585
+	Optic Disc IoU: 0.7979,	Optic Disc Dice Coefficient: 0.8876,	Optic Disc Pixel Accuracy: 0.9954
+
+Epoch 24 - Train Metrics:
+	Loss: 0.839020
+	Microaneurysms IoU: 0.0699,	Microaneurysms Dice Coefficient: 0.1306,	Microaneurysms Pixel Accuracy: 0.1630
+	Haemorrhages IoU: 0.2409,	Haemorrhages Dice Coefficient: 0.3882,	Haemorrhages Pixel Accuracy: 0.4497
+	Hard Exudates IoU: 0.4732,	Hard Exudates Dice Coefficient: 0.6424,	Hard Exudates Pixel Accuracy: 0.6701
+	Soft Exudates IoU: 0.2372,	Soft Exudates Dice Coefficient: 0.3835,	Soft Exudates Pixel Accuracy: 0.4120
+	Optic Disc IoU: 0.7322,	Optic Disc Dice Coefficient: 0.8454,	Optic Disc Pixel Accuracy: 0.8565
+Epoch 24 - Test Metrics:
+	Loss: 0.910268
+	Microaneurysms IoU: 0.0713,	Microaneurysms Dice Coefficient: 0.1330,	Microaneurysms Pixel Accuracy: 0.1969
+	Haemorrhages IoU: 0.2195,	Haemorrhages Dice Coefficient: 0.3600,	Haemorrhages Pixel Accuracy: 0.3419
+	Hard Exudates IoU: 0.1411,	Hard Exudates Dice Coefficient: 0.2474,	Hard Exudates Pixel Accuracy: 0.1460
+	Soft Exudates IoU: 0.2162,	Soft Exudates Dice Coefficient: 0.3555,	Soft Exudates Pixel Accuracy: 0.2405
+	Optic Disc IoU: 0.8642,	Optic Disc Dice Coefficient: 0.9272,	Optic Disc Pixel Accuracy: 0.9811
+
+Epoch 25 - Train Metrics:
+	Loss: 0.810074
+	Microaneurysms IoU: 0.0835,	Microaneurysms Dice Coefficient: 0.1541,	Microaneurysms Pixel Accuracy: 0.1676
+	Haemorrhages IoU: 0.2380,	Haemorrhages Dice Coefficient: 0.3844,	Haemorrhages Pixel Accuracy: 0.4274
+	Hard Exudates IoU: 0.4479,	Hard Exudates Dice Coefficient: 0.6186,	Hard Exudates Pixel Accuracy: 0.6418
+	Soft Exudates IoU: 0.2047,	Soft Exudates Dice Coefficient: 0.3398,	Soft Exudates Pixel Accuracy: 0.3769
+	Optic Disc IoU: 0.8293,	Optic Disc Dice Coefficient: 0.9067,	Optic Disc Pixel Accuracy: 0.8979
+Epoch 25 - Test Metrics:
+	Loss: 0.868825
+	Microaneurysms IoU: 0.0813,	Microaneurysms Dice Coefficient: 0.1504,	Microaneurysms Pixel Accuracy: 0.1872
+	Haemorrhages IoU: 0.2285,	Haemorrhages Dice Coefficient: 0.3720,	Haemorrhages Pixel Accuracy: 0.3391
+	Hard Exudates IoU: 0.1663,	Hard Exudates Dice Coefficient: 0.2851,	Hard Exudates Pixel Accuracy: 0.1781
+	Soft Exudates IoU: 0.2271,	Soft Exudates Dice Coefficient: 0.3701,	Soft Exudates Pixel Accuracy: 0.2807
+	Optic Disc IoU: 0.8528,	Optic Disc Dice Coefficient: 0.9205,	Optic Disc Pixel Accuracy: 0.9907
+
+Epoch 26 - Train Metrics:
+	Loss: 0.798331
+	Microaneurysms IoU: 0.0841,	Microaneurysms Dice Coefficient: 0.1551,	Microaneurysms Pixel Accuracy: 0.1580
+	Haemorrhages IoU: 0.2015,	Haemorrhages Dice Coefficient: 0.3354,	Haemorrhages Pixel Accuracy: 0.2893
+	Hard Exudates IoU: 0.4462,	Hard Exudates Dice Coefficient: 0.6171,	Hard Exudates Pixel Accuracy: 0.6289
+	Soft Exudates IoU: 0.1305,	Soft Exudates Dice Coefficient: 0.2309,	Soft Exudates Pixel Accuracy: 0.3381
+	Optic Disc IoU: 0.8402,	Optic Disc Dice Coefficient: 0.9132,	Optic Disc Pixel Accuracy: 0.9514
+Epoch 26 - Test Metrics:
+	Loss: 0.872423
+	Microaneurysms IoU: 0.0747,	Microaneurysms Dice Coefficient: 0.1391,	Microaneurysms Pixel Accuracy: 0.2288
+	Haemorrhages IoU: 0.2287,	Haemorrhages Dice Coefficient: 0.3723,	Haemorrhages Pixel Accuracy: 0.3344
+	Hard Exudates IoU: 0.1627,	Hard Exudates Dice Coefficient: 0.2798,	Hard Exudates Pixel Accuracy: 0.1719
+	Soft Exudates IoU: 0.2150,	Soft Exudates Dice Coefficient: 0.3539,	Soft Exudates Pixel Accuracy: 0.2653
+	Optic Disc IoU: 0.8399,	Optic Disc Dice Coefficient: 0.9130,	Optic Disc Pixel Accuracy: 0.9923
+
+Epoch 27 - Train Metrics:
+	Loss: 0.807828
+	Microaneurysms IoU: 0.0735,	Microaneurysms Dice Coefficient: 0.1369,	Microaneurysms Pixel Accuracy: 0.2029
+	Haemorrhages IoU: 0.2450,	Haemorrhages Dice Coefficient: 0.3935,	Haemorrhages Pixel Accuracy: 0.3824
+	Hard Exudates IoU: 0.5144,	Hard Exudates Dice Coefficient: 0.6793,	Hard Exudates Pixel Accuracy: 0.6902
+	Soft Exudates IoU: 0.1324,	Soft Exudates Dice Coefficient: 0.2338,	Soft Exudates Pixel Accuracy: 0.2755
+	Optic Disc IoU: 0.8521,	Optic Disc Dice Coefficient: 0.9202,	Optic Disc Pixel Accuracy: 0.9359
+Epoch 27 - Test Metrics:
+	Loss: 0.878988
+	Microaneurysms IoU: 0.0713,	Microaneurysms Dice Coefficient: 0.1331,	Microaneurysms Pixel Accuracy: 0.2976
+	Haemorrhages IoU: 0.2236,	Haemorrhages Dice Coefficient: 0.3655,	Haemorrhages Pixel Accuracy: 0.4569
+	Hard Exudates IoU: 0.1612,	Hard Exudates Dice Coefficient: 0.2777,	Hard Exudates Pixel Accuracy: 0.1708
+	Soft Exudates IoU: 0.2863,	Soft Exudates Dice Coefficient: 0.4452,	Soft Exudates Pixel Accuracy: 0.3162
+	Optic Disc IoU: 0.8671,	Optic Disc Dice Coefficient: 0.9288,	Optic Disc Pixel Accuracy: 0.9797
+
+Epoch 28 - Train Metrics:
+	Loss: 0.788572
+	Microaneurysms IoU: 0.0909,	Microaneurysms Dice Coefficient: 0.1667,	Microaneurysms Pixel Accuracy: 0.2136
+	Haemorrhages IoU: 0.2814,	Haemorrhages Dice Coefficient: 0.4392,	Haemorrhages Pixel Accuracy: 0.4355
+	Hard Exudates IoU: 0.4126,	Hard Exudates Dice Coefficient: 0.5841,	Hard Exudates Pixel Accuracy: 0.6640
+	Soft Exudates IoU: 0.1526,	Soft Exudates Dice Coefficient: 0.2648,	Soft Exudates Pixel Accuracy: 0.1892
+	Optic Disc IoU: 0.8179,	Optic Disc Dice Coefficient: 0.8998,	Optic Disc Pixel Accuracy: 0.8947
+Epoch 28 - Test Metrics:
+	Loss: 0.850173
+	Microaneurysms IoU: 0.1090,	Microaneurysms Dice Coefficient: 0.1966,	Microaneurysms Pixel Accuracy: 0.2017
+	Haemorrhages IoU: 0.2300,	Haemorrhages Dice Coefficient: 0.3740,	Haemorrhages Pixel Accuracy: 0.4294
+	Hard Exudates IoU: 0.1519,	Hard Exudates Dice Coefficient: 0.2638,	Hard Exudates Pixel Accuracy: 0.1608
+	Soft Exudates IoU: 0.2914,	Soft Exudates Dice Coefficient: 0.4514,	Soft Exudates Pixel Accuracy: 0.3259
+	Optic Disc IoU: 0.8692,	Optic Disc Dice Coefficient: 0.9300,	Optic Disc Pixel Accuracy: 0.9801
+
+Epoch 29 - Train Metrics:
+	Loss: 0.792873
+	Microaneurysms IoU: 0.0938,	Microaneurysms Dice Coefficient: 0.1715,	Microaneurysms Pixel Accuracy: 0.1826
+	Haemorrhages IoU: 0.3017,	Haemorrhages Dice Coefficient: 0.4636,	Haemorrhages Pixel Accuracy: 0.5015
+	Hard Exudates IoU: 0.4291,	Hard Exudates Dice Coefficient: 0.6005,	Hard Exudates Pixel Accuracy: 0.5691
+	Soft Exudates IoU: 0.2683,	Soft Exudates Dice Coefficient: 0.4231,	Soft Exudates Pixel Accuracy: 0.3686
+	Optic Disc IoU: 0.8374,	Optic Disc Dice Coefficient: 0.9115,	Optic Disc Pixel Accuracy: 0.9385
+Epoch 29 - Test Metrics:
+	Loss: 0.851146
+	Microaneurysms IoU: 0.0991,	Microaneurysms Dice Coefficient: 0.1803,	Microaneurysms Pixel Accuracy: 0.2706
+	Haemorrhages IoU: 0.2304,	Haemorrhages Dice Coefficient: 0.3745,	Haemorrhages Pixel Accuracy: 0.4751
+	Hard Exudates IoU: 0.1639,	Hard Exudates Dice Coefficient: 0.2816,	Hard Exudates Pixel Accuracy: 0.1742
+	Soft Exudates IoU: 0.3810,	Soft Exudates Dice Coefficient: 0.5518,	Soft Exudates Pixel Accuracy: 0.4812
+	Optic Disc IoU: 0.8711,	Optic Disc Dice Coefficient: 0.9311,	Optic Disc Pixel Accuracy: 0.9794
+
+Epoch 30 - Train Metrics:
+	Loss: 0.783314
+	Microaneurysms IoU: 0.1063,	Microaneurysms Dice Coefficient: 0.1922,	Microaneurysms Pixel Accuracy: 0.1975
+	Haemorrhages IoU: 0.2625,	Haemorrhages Dice Coefficient: 0.4159,	Haemorrhages Pixel Accuracy: 0.4214
+	Hard Exudates IoU: 0.4171,	Hard Exudates Dice Coefficient: 0.5886,	Hard Exudates Pixel Accuracy: 0.5723
+	Soft Exudates IoU: 0.2110,	Soft Exudates Dice Coefficient: 0.3484,	Soft Exudates Pixel Accuracy: 0.3785
+	Optic Disc IoU: 0.7740,	Optic Disc Dice Coefficient: 0.8726,	Optic Disc Pixel Accuracy: 0.9471
+Epoch 30 - Test Metrics:
+	Loss: 0.814453
+	Microaneurysms IoU: 0.1102,	Microaneurysms Dice Coefficient: 0.1986,	Microaneurysms Pixel Accuracy: 0.2334
+	Haemorrhages IoU: 0.2524,	Haemorrhages Dice Coefficient: 0.4031,	Haemorrhages Pixel Accuracy: 0.4596
+	Hard Exudates IoU: 0.1606,	Hard Exudates Dice Coefficient: 0.2768,	Hard Exudates Pixel Accuracy: 0.1689
+	Soft Exudates IoU: 0.3536,	Soft Exudates Dice Coefficient: 0.5224,	Soft Exudates Pixel Accuracy: 0.5685
+	Optic Disc IoU: 0.8711,	Optic Disc Dice Coefficient: 0.9311,	Optic Disc Pixel Accuracy: 0.9784
+
+Epoch 31 - Train Metrics:
+	Loss: 0.791016
+	Microaneurysms IoU: 0.1046,	Microaneurysms Dice Coefficient: 0.1894,	Microaneurysms Pixel Accuracy: 0.2143
+	Haemorrhages IoU: 0.2336,	Haemorrhages Dice Coefficient: 0.3787,	Haemorrhages Pixel Accuracy: 0.3400
+	Hard Exudates IoU: 0.5080,	Hard Exudates Dice Coefficient: 0.6738,	Hard Exudates Pixel Accuracy: 0.6662
+	Soft Exudates IoU: 0.2209,	Soft Exudates Dice Coefficient: 0.3619,	Soft Exudates Pixel Accuracy: 0.5244
+	Optic Disc IoU: 0.8572,	Optic Disc Dice Coefficient: 0.9231,	Optic Disc Pixel Accuracy: 0.9156
+Epoch 31 - Test Metrics:
+	Loss: 0.766686
+	Microaneurysms IoU: 0.1153,	Microaneurysms Dice Coefficient: 0.2068,	Microaneurysms Pixel Accuracy: 0.3478
+	Haemorrhages IoU: 0.2572,	Haemorrhages Dice Coefficient: 0.4091,	Haemorrhages Pixel Accuracy: 0.4428
+	Hard Exudates IoU: 0.1568,	Hard Exudates Dice Coefficient: 0.2711,	Hard Exudates Pixel Accuracy: 0.1646
+	Soft Exudates IoU: 0.3165,	Soft Exudates Dice Coefficient: 0.4809,	Soft Exudates Pixel Accuracy: 0.5785
+	Optic Disc IoU: 0.8867,	Optic Disc Dice Coefficient: 0.9400,	Optic Disc Pixel Accuracy: 0.9632
+
+Epoch 32 - Train Metrics:
+	Loss: 0.763633
+	Microaneurysms IoU: 0.1173,	Microaneurysms Dice Coefficient: 0.2100,	Microaneurysms Pixel Accuracy: 0.2897
+	Haemorrhages IoU: 0.3033,	Haemorrhages Dice Coefficient: 0.4654,	Haemorrhages Pixel Accuracy: 0.4658
+	Hard Exudates IoU: 0.5201,	Hard Exudates Dice Coefficient: 0.6843,	Hard Exudates Pixel Accuracy: 0.6851
+	Soft Exudates IoU: 0.2920,	Soft Exudates Dice Coefficient: 0.4520,	Soft Exudates Pixel Accuracy: 0.5409
+	Optic Disc IoU: 0.8547,	Optic Disc Dice Coefficient: 0.9217,	Optic Disc Pixel Accuracy: 0.9315
+Epoch 32 - Test Metrics:
+	Loss: 0.737346
+	Microaneurysms IoU: 0.1437,	Microaneurysms Dice Coefficient: 0.2513,	Microaneurysms Pixel Accuracy: 0.2789
+	Haemorrhages IoU: 0.2556,	Haemorrhages Dice Coefficient: 0.4071,	Haemorrhages Pixel Accuracy: 0.4768
+	Hard Exudates IoU: 0.1451,	Hard Exudates Dice Coefficient: 0.2534,	Hard Exudates Pixel Accuracy: 0.1498
+	Soft Exudates IoU: 0.3251,	Soft Exudates Dice Coefficient: 0.4907,	Soft Exudates Pixel Accuracy: 0.5868
+	Optic Disc IoU: 0.8547,	Optic Disc Dice Coefficient: 0.9216,	Optic Disc Pixel Accuracy: 0.9863
+
+Epoch 33 - Train Metrics:
+	Loss: 0.772751
+	Microaneurysms IoU: 0.1368,	Microaneurysms Dice Coefficient: 0.2406,	Microaneurysms Pixel Accuracy: 0.2234
+	Haemorrhages IoU: 0.2663,	Haemorrhages Dice Coefficient: 0.4206,	Haemorrhages Pixel Accuracy: 0.3756
+	Hard Exudates IoU: 0.5118,	Hard Exudates Dice Coefficient: 0.6771,	Hard Exudates Pixel Accuracy: 0.6114
+	Soft Exudates IoU: 0.1806,	Soft Exudates Dice Coefficient: 0.3060,	Soft Exudates Pixel Accuracy: 0.3708
+	Optic Disc IoU: 0.8813,	Optic Disc Dice Coefficient: 0.9369,	Optic Disc Pixel Accuracy: 0.9414
+Epoch 33 - Test Metrics:
+	Loss: 0.709253
+	Microaneurysms IoU: 0.1492,	Microaneurysms Dice Coefficient: 0.2597,	Microaneurysms Pixel Accuracy: 0.2617
+	Haemorrhages IoU: 0.2709,	Haemorrhages Dice Coefficient: 0.4263,	Haemorrhages Pixel Accuracy: 0.4545
+	Hard Exudates IoU: 0.1457,	Hard Exudates Dice Coefficient: 0.2544,	Hard Exudates Pixel Accuracy: 0.1506
+	Soft Exudates IoU: 0.3214,	Soft Exudates Dice Coefficient: 0.4864,	Soft Exudates Pixel Accuracy: 0.5922
+	Optic Disc IoU: 0.8853,	Optic Disc Dice Coefficient: 0.9392,	Optic Disc Pixel Accuracy: 0.9631
+
+Epoch 34 - Train Metrics:
+	Loss: 0.759900
+	Microaneurysms IoU: 0.1396,	Microaneurysms Dice Coefficient: 0.2449,	Microaneurysms Pixel Accuracy: 0.2733
+	Haemorrhages IoU: 0.2382,	Haemorrhages Dice Coefficient: 0.3847,	Haemorrhages Pixel Accuracy: 0.3958
+	Hard Exudates IoU: 0.5364,	Hard Exudates Dice Coefficient: 0.6983,	Hard Exudates Pixel Accuracy: 0.7452
+	Soft Exudates IoU: 0.2156,	Soft Exudates Dice Coefficient: 0.3548,	Soft Exudates Pixel Accuracy: 0.4950
+	Optic Disc IoU: 0.8401,	Optic Disc Dice Coefficient: 0.9131,	Optic Disc Pixel Accuracy: 0.9223
+Epoch 34 - Test Metrics:
+	Loss: 0.705829
+	Microaneurysms IoU: 0.1506,	Microaneurysms Dice Coefficient: 0.2617,	Microaneurysms Pixel Accuracy: 0.3143
+	Haemorrhages IoU: 0.2825,	Haemorrhages Dice Coefficient: 0.4406,	Haemorrhages Pixel Accuracy: 0.4796
+	Hard Exudates IoU: 0.1605,	Hard Exudates Dice Coefficient: 0.2766,	Hard Exudates Pixel Accuracy: 0.1682
+	Soft Exudates IoU: 0.3132,	Soft Exudates Dice Coefficient: 0.4770,	Soft Exudates Pixel Accuracy: 0.5745
+	Optic Disc IoU: 0.8654,	Optic Disc Dice Coefficient: 0.9278,	Optic Disc Pixel Accuracy: 0.9868
+
+Epoch 35 - Train Metrics:
+	Loss: 0.756939
+	Microaneurysms IoU: 0.1380,	Microaneurysms Dice Coefficient: 0.2426,	Microaneurysms Pixel Accuracy: 0.2498
+	Haemorrhages IoU: 0.2345,	Haemorrhages Dice Coefficient: 0.3800,	Haemorrhages Pixel Accuracy: 0.3065
+	Hard Exudates IoU: 0.4989,	Hard Exudates Dice Coefficient: 0.6657,	Hard Exudates Pixel Accuracy: 0.5781
+	Soft Exudates IoU: 0.2100,	Soft Exudates Dice Coefficient: 0.3471,	Soft Exudates Pixel Accuracy: 0.3779
+	Optic Disc IoU: 0.8727,	Optic Disc Dice Coefficient: 0.9320,	Optic Disc Pixel Accuracy: 0.9426
+Epoch 35 - Test Metrics:
+	Loss: 0.693550
+	Microaneurysms IoU: 0.1633,	Microaneurysms Dice Coefficient: 0.2807,	Microaneurysms Pixel Accuracy: 0.2448
+	Haemorrhages IoU: 0.2760,	Haemorrhages Dice Coefficient: 0.4326,	Haemorrhages Pixel Accuracy: 0.3604
+	Hard Exudates IoU: 0.1460,	Hard Exudates Dice Coefficient: 0.2548,	Hard Exudates Pixel Accuracy: 0.1505
+	Soft Exudates IoU: 0.3279,	Soft Exudates Dice Coefficient: 0.4939,	Soft Exudates Pixel Accuracy: 0.5671
+	Optic Disc IoU: 0.8898,	Optic Disc Dice Coefficient: 0.9417,	Optic Disc Pixel Accuracy: 0.9738
+
+Epoch 36 - Train Metrics:
+	Loss: 0.751148
+	Microaneurysms IoU: 0.1612,	Microaneurysms Dice Coefficient: 0.2776,	Microaneurysms Pixel Accuracy: 0.2915
+	Haemorrhages IoU: 0.3123,	Haemorrhages Dice Coefficient: 0.4760,	Haemorrhages Pixel Accuracy: 0.4199
+	Hard Exudates IoU: 0.5806,	Hard Exudates Dice Coefficient: 0.7346,	Hard Exudates Pixel Accuracy: 0.7004
+	Soft Exudates IoU: 0.2441,	Soft Exudates Dice Coefficient: 0.3925,	Soft Exudates Pixel Accuracy: 0.4627
+	Optic Disc IoU: 0.8679,	Optic Disc Dice Coefficient: 0.9293,	Optic Disc Pixel Accuracy: 0.9153
+Epoch 36 - Test Metrics:
+	Loss: 0.700812
+	Microaneurysms IoU: 0.1766,	Microaneurysms Dice Coefficient: 0.3003,	Microaneurysms Pixel Accuracy: 0.3427
+	Haemorrhages IoU: 0.2898,	Haemorrhages Dice Coefficient: 0.4493,	Haemorrhages Pixel Accuracy: 0.4251
+	Hard Exudates IoU: 0.1755,	Hard Exudates Dice Coefficient: 0.2986,	Hard Exudates Pixel Accuracy: 0.1880
+	Soft Exudates IoU: 0.3342,	Soft Exudates Dice Coefficient: 0.5010,	Soft Exudates Pixel Accuracy: 0.5703
+	Optic Disc IoU: 0.8991,	Optic Disc Dice Coefficient: 0.9469,	Optic Disc Pixel Accuracy: 0.9752
+
+Epoch 37 - Train Metrics:
+	Loss: 0.728880
+	Microaneurysms IoU: 0.1542,	Microaneurysms Dice Coefficient: 0.2673,	Microaneurysms Pixel Accuracy: 0.2642
+	Haemorrhages IoU: 0.2888,	Haemorrhages Dice Coefficient: 0.4482,	Haemorrhages Pixel Accuracy: 0.3911
+	Hard Exudates IoU: 0.5515,	Hard Exudates Dice Coefficient: 0.7109,	Hard Exudates Pixel Accuracy: 0.6839
+	Soft Exudates IoU: 0.3556,	Soft Exudates Dice Coefficient: 0.5246,	Soft Exudates Pixel Accuracy: 0.5451
+	Optic Disc IoU: 0.8150,	Optic Disc Dice Coefficient: 0.8981,	Optic Disc Pixel Accuracy: 0.8746
+Epoch 37 - Test Metrics:
+	Loss: 0.711240
+	Microaneurysms IoU: 0.1848,	Microaneurysms Dice Coefficient: 0.3120,	Microaneurysms Pixel Accuracy: 0.3342
+	Haemorrhages IoU: 0.2791,	Haemorrhages Dice Coefficient: 0.4364,	Haemorrhages Pixel Accuracy: 0.3708
+	Hard Exudates IoU: 0.1617,	Hard Exudates Dice Coefficient: 0.2784,	Hard Exudates Pixel Accuracy: 0.1683
+	Soft Exudates IoU: 0.3282,	Soft Exudates Dice Coefficient: 0.4942,	Soft Exudates Pixel Accuracy: 0.5658
+	Optic Disc IoU: 0.8453,	Optic Disc Dice Coefficient: 0.9162,	Optic Disc Pixel Accuracy: 0.9912
+
+Epoch 38 - Train Metrics:
+	Loss: 0.720007
+	Microaneurysms IoU: 0.1577,	Microaneurysms Dice Coefficient: 0.2725,	Microaneurysms Pixel Accuracy: 0.2817
+	Haemorrhages IoU: 0.3265,	Haemorrhages Dice Coefficient: 0.4923,	Haemorrhages Pixel Accuracy: 0.4027
+	Hard Exudates IoU: 0.5658,	Hard Exudates Dice Coefficient: 0.7227,	Hard Exudates Pixel Accuracy: 0.6427
+	Soft Exudates IoU: 0.2740,	Soft Exudates Dice Coefficient: 0.4302,	Soft Exudates Pixel Accuracy: 0.5216
+	Optic Disc IoU: 0.8747,	Optic Disc Dice Coefficient: 0.9332,	Optic Disc Pixel Accuracy: 0.9654
+Epoch 38 - Test Metrics:
+	Loss: 0.703808
+	Microaneurysms IoU: 0.1972,	Microaneurysms Dice Coefficient: 0.3294,	Microaneurysms Pixel Accuracy: 0.3590
+	Haemorrhages IoU: 0.2841,	Haemorrhages Dice Coefficient: 0.4425,	Haemorrhages Pixel Accuracy: 0.3894
+	Hard Exudates IoU: 0.1690,	Hard Exudates Dice Coefficient: 0.2891,	Hard Exudates Pixel Accuracy: 0.1781
+	Soft Exudates IoU: 0.3427,	Soft Exudates Dice Coefficient: 0.5105,	Soft Exudates Pixel Accuracy: 0.6031
+	Optic Disc IoU: 0.8789,	Optic Disc Dice Coefficient: 0.9355,	Optic Disc Pixel Accuracy: 0.9725
+
+Epoch 39 - Train Metrics:
+	Loss: 0.709283
+	Microaneurysms IoU: 0.1737,	Microaneurysms Dice Coefficient: 0.2961,	Microaneurysms Pixel Accuracy: 0.2666
+	Haemorrhages IoU: 0.2919,	Haemorrhages Dice Coefficient: 0.4519,	Haemorrhages Pixel Accuracy: 0.3811
+	Hard Exudates IoU: 0.5266,	Hard Exudates Dice Coefficient: 0.6899,	Hard Exudates Pixel Accuracy: 0.6413
+	Soft Exudates IoU: 0.2655,	Soft Exudates Dice Coefficient: 0.4196,	Soft Exudates Pixel Accuracy: 0.6337
+	Optic Disc IoU: 0.8553,	Optic Disc Dice Coefficient: 0.9220,	Optic Disc Pixel Accuracy: 0.9037
+Epoch 39 - Test Metrics:
+	Loss: 0.693469
+	Microaneurysms IoU: 0.1902,	Microaneurysms Dice Coefficient: 0.3196,	Microaneurysms Pixel Accuracy: 0.2547
+	Haemorrhages IoU: 0.2722,	Haemorrhages Dice Coefficient: 0.4279,	Haemorrhages Pixel Accuracy: 0.3685
+	Hard Exudates IoU: 0.1663,	Hard Exudates Dice Coefficient: 0.2852,	Hard Exudates Pixel Accuracy: 0.1742
+	Soft Exudates IoU: 0.3549,	Soft Exudates Dice Coefficient: 0.5238,	Soft Exudates Pixel Accuracy: 0.5954
+	Optic Disc IoU: 0.8594,	Optic Disc Dice Coefficient: 0.9244,	Optic Disc Pixel Accuracy: 0.9887
+
+Epoch 40 - Train Metrics:
+	Loss: 0.695060
+	Microaneurysms IoU: 0.1958,	Microaneurysms Dice Coefficient: 0.3275,	Microaneurysms Pixel Accuracy: 0.3010
+	Haemorrhages IoU: 0.3149,	Haemorrhages Dice Coefficient: 0.4789,	Haemorrhages Pixel Accuracy: 0.4258
+	Hard Exudates IoU: 0.5639,	Hard Exudates Dice Coefficient: 0.7212,	Hard Exudates Pixel Accuracy: 0.6974
+	Soft Exudates IoU: 0.2598,	Soft Exudates Dice Coefficient: 0.4125,	Soft Exudates Pixel Accuracy: 0.4718
+	Optic Disc IoU: 0.7919,	Optic Disc Dice Coefficient: 0.8839,	Optic Disc Pixel Accuracy: 0.9613
+Epoch 40 - Test Metrics:
+	Loss: 0.667542
+	Microaneurysms IoU: 0.2051,	Microaneurysms Dice Coefficient: 0.3404,	Microaneurysms Pixel Accuracy: 0.3008
+	Haemorrhages IoU: 0.2493,	Haemorrhages Dice Coefficient: 0.3991,	Haemorrhages Pixel Accuracy: 0.3036
+	Hard Exudates IoU: 0.1491,	Hard Exudates Dice Coefficient: 0.2595,	Hard Exudates Pixel Accuracy: 0.1533
+	Soft Exudates IoU: 0.3628,	Soft Exudates Dice Coefficient: 0.5325,	Soft Exudates Pixel Accuracy: 0.5728
+	Optic Disc IoU: 0.8362,	Optic Disc Dice Coefficient: 0.9108,	Optic Disc Pixel Accuracy: 0.9952
+
+Epoch 41 - Train Metrics:
+	Loss: 0.690895
+	Microaneurysms IoU: 0.1858,	Microaneurysms Dice Coefficient: 0.3134,	Microaneurysms Pixel Accuracy: 0.2764
+	Haemorrhages IoU: 0.3152,	Haemorrhages Dice Coefficient: 0.4793,	Haemorrhages Pixel Accuracy: 0.4220
+	Hard Exudates IoU: 0.5707,	Hard Exudates Dice Coefficient: 0.7267,	Hard Exudates Pixel Accuracy: 0.6805
+	Soft Exudates IoU: 0.3200,	Soft Exudates Dice Coefficient: 0.4848,	Soft Exudates Pixel Accuracy: 0.5684
+	Optic Disc IoU: 0.8927,	Optic Disc Dice Coefficient: 0.9433,	Optic Disc Pixel Accuracy: 0.9626
+Epoch 41 - Test Metrics:
+	Loss: 0.645202
+	Microaneurysms IoU: 0.2067,	Microaneurysms Dice Coefficient: 0.3426,	Microaneurysms Pixel Accuracy: 0.2932
+	Haemorrhages IoU: 0.2961,	Haemorrhages Dice Coefficient: 0.4570,	Haemorrhages Pixel Accuracy: 0.4185
+	Hard Exudates IoU: 0.1547,	Hard Exudates Dice Coefficient: 0.2680,	Hard Exudates Pixel Accuracy: 0.1601
+	Soft Exudates IoU: 0.3806,	Soft Exudates Dice Coefficient: 0.5514,	Soft Exudates Pixel Accuracy: 0.6045
+	Optic Disc IoU: 0.8963,	Optic Disc Dice Coefficient: 0.9453,	Optic Disc Pixel Accuracy: 0.9740
+
+Epoch 42 - Train Metrics:
+	Loss: 0.682469
+	Microaneurysms IoU: 0.2051,	Microaneurysms Dice Coefficient: 0.3404,	Microaneurysms Pixel Accuracy: 0.3032
+	Haemorrhages IoU: 0.3409,	Haemorrhages Dice Coefficient: 0.5084,	Haemorrhages Pixel Accuracy: 0.4538
+	Hard Exudates IoU: 0.5783,	Hard Exudates Dice Coefficient: 0.7328,	Hard Exudates Pixel Accuracy: 0.6706
+	Soft Exudates IoU: 0.3421,	Soft Exudates Dice Coefficient: 0.5098,	Soft Exudates Pixel Accuracy: 0.4968
+	Optic Disc IoU: 0.8881,	Optic Disc Dice Coefficient: 0.9407,	Optic Disc Pixel Accuracy: 0.9262
+Epoch 42 - Test Metrics:
+	Loss: 0.636822
+	Microaneurysms IoU: 0.2146,	Microaneurysms Dice Coefficient: 0.3534,	Microaneurysms Pixel Accuracy: 0.3107
+	Haemorrhages IoU: 0.2800,	Haemorrhages Dice Coefficient: 0.4374,	Haemorrhages Pixel Accuracy: 0.3541
+	Hard Exudates IoU: 0.1464,	Hard Exudates Dice Coefficient: 0.2554,	Hard Exudates Pixel Accuracy: 0.1506
+	Soft Exudates IoU: 0.3863,	Soft Exudates Dice Coefficient: 0.5573,	Soft Exudates Pixel Accuracy: 0.6406
+	Optic Disc IoU: 0.9038,	Optic Disc Dice Coefficient: 0.9495,	Optic Disc Pixel Accuracy: 0.9677
+
+Epoch 43 - Train Metrics:
+	Loss: 0.689662
+	Microaneurysms IoU: 0.2032,	Microaneurysms Dice Coefficient: 0.3378,	Microaneurysms Pixel Accuracy: 0.2816
+	Haemorrhages IoU: 0.3334,	Haemorrhages Dice Coefficient: 0.5001,	Haemorrhages Pixel Accuracy: 0.4135
+	Hard Exudates IoU: 0.5482,	Hard Exudates Dice Coefficient: 0.7081,	Hard Exudates Pixel Accuracy: 0.6398
+	Soft Exudates IoU: 0.3030,	Soft Exudates Dice Coefficient: 0.4650,	Soft Exudates Pixel Accuracy: 0.5020
+	Optic Disc IoU: 0.8777,	Optic Disc Dice Coefficient: 0.9348,	Optic Disc Pixel Accuracy: 0.9309
+Epoch 43 - Test Metrics:
+	Loss: 0.659454
+	Microaneurysms IoU: 0.2114,	Microaneurysms Dice Coefficient: 0.3490,	Microaneurysms Pixel Accuracy: 0.3074
+	Haemorrhages IoU: 0.2867,	Haemorrhages Dice Coefficient: 0.4456,	Haemorrhages Pixel Accuracy: 0.3806
+	Hard Exudates IoU: 0.1537,	Hard Exudates Dice Coefficient: 0.2664,	Hard Exudates Pixel Accuracy: 0.1590
+	Soft Exudates IoU: 0.3774,	Soft Exudates Dice Coefficient: 0.5480,	Soft Exudates Pixel Accuracy: 0.6458
+	Optic Disc IoU: 0.8904,	Optic Disc Dice Coefficient: 0.9420,	Optic Disc Pixel Accuracy: 0.9807
+
+Epoch 44 - Train Metrics:
+	Loss: 0.680226
+	Microaneurysms IoU: 0.2101,	Microaneurysms Dice Coefficient: 0.3473,	Microaneurysms Pixel Accuracy: 0.3003
+	Haemorrhages IoU: 0.3237,	Haemorrhages Dice Coefficient: 0.4891,	Haemorrhages Pixel Accuracy: 0.4180
+	Hard Exudates IoU: 0.5416,	Hard Exudates Dice Coefficient: 0.7027,	Hard Exudates Pixel Accuracy: 0.6307
+	Soft Exudates IoU: 0.2753,	Soft Exudates Dice Coefficient: 0.4317,	Soft Exudates Pixel Accuracy: 0.4987
+	Optic Disc IoU: 0.8720,	Optic Disc Dice Coefficient: 0.9316,	Optic Disc Pixel Accuracy: 0.9358
+Epoch 44 - Test Metrics:
+	Loss: 0.650018
+	Microaneurysms IoU: 0.2219,	Microaneurysms Dice Coefficient: 0.3632,	Microaneurysms Pixel Accuracy: 0.3228
+	Haemorrhages IoU: 0.3068,	Haemorrhages Dice Coefficient: 0.4695,	Haemorrhages Pixel Accuracy: 0.4176
+	Hard Exudates IoU: 0.1467,	Hard Exudates Dice Coefficient: 0.2559,	Hard Exudates Pixel Accuracy: 0.1505
+	Soft Exudates IoU: 0.3810,	Soft Exudates Dice Coefficient: 0.5517,	Soft Exudates Pixel Accuracy: 0.6590
+	Optic Disc IoU: 0.8986,	Optic Disc Dice Coefficient: 0.9466,	Optic Disc Pixel Accuracy: 0.9762
+
+Epoch 45 - Train Metrics:
+	Loss: 0.650689
+	Microaneurysms IoU: 0.2230,	Microaneurysms Dice Coefficient: 0.3647,	Microaneurysms Pixel Accuracy: 0.3335
+	Haemorrhages IoU: 0.3586,	Haemorrhages Dice Coefficient: 0.5279,	Haemorrhages Pixel Accuracy: 0.5058
+	Hard Exudates IoU: 0.5812,	Hard Exudates Dice Coefficient: 0.7351,	Hard Exudates Pixel Accuracy: 0.6757
+	Soft Exudates IoU: 0.2472,	Soft Exudates Dice Coefficient: 0.3965,	Soft Exudates Pixel Accuracy: 0.4839
+	Optic Disc IoU: 0.9078,	Optic Disc Dice Coefficient: 0.9517,	Optic Disc Pixel Accuracy: 0.9366
+Epoch 45 - Test Metrics:
+	Loss: 0.642748
+	Microaneurysms IoU: 0.2234,	Microaneurysms Dice Coefficient: 0.3652,	Microaneurysms Pixel Accuracy: 0.3605
+	Haemorrhages IoU: 0.2926,	Haemorrhages Dice Coefficient: 0.4527,	Haemorrhages Pixel Accuracy: 0.3984
+	Hard Exudates IoU: 0.1588,	Hard Exudates Dice Coefficient: 0.2740,	Hard Exudates Pixel Accuracy: 0.1645
+	Soft Exudates IoU: 0.3887,	Soft Exudates Dice Coefficient: 0.5598,	Soft Exudates Pixel Accuracy: 0.6740
+	Optic Disc IoU: 0.8931,	Optic Disc Dice Coefficient: 0.9435,	Optic Disc Pixel Accuracy: 0.9785
+
+Epoch 46 - Train Metrics:
+	Loss: 0.658733
+	Microaneurysms IoU: 0.1920,	Microaneurysms Dice Coefficient: 0.3222,	Microaneurysms Pixel Accuracy: 0.2580
+	Haemorrhages IoU: 0.3042,	Haemorrhages Dice Coefficient: 0.4665,	Haemorrhages Pixel Accuracy: 0.4025
+	Hard Exudates IoU: 0.5772,	Hard Exudates Dice Coefficient: 0.7319,	Hard Exudates Pixel Accuracy: 0.6626
+	Soft Exudates IoU: 0.2391,	Soft Exudates Dice Coefficient: 0.3860,	Soft Exudates Pixel Accuracy: 0.5086
+	Optic Disc IoU: 0.8857,	Optic Disc Dice Coefficient: 0.9394,	Optic Disc Pixel Accuracy: 0.9532
+Epoch 46 - Test Metrics:
+	Loss: 0.639259
+	Microaneurysms IoU: 0.2241,	Microaneurysms Dice Coefficient: 0.3662,	Microaneurysms Pixel Accuracy: 0.3026
+	Haemorrhages IoU: 0.2635,	Haemorrhages Dice Coefficient: 0.4170,	Haemorrhages Pixel Accuracy: 0.3187
+	Hard Exudates IoU: 0.1474,	Hard Exudates Dice Coefficient: 0.2570,	Hard Exudates Pixel Accuracy: 0.1512
+	Soft Exudates IoU: 0.3762,	Soft Exudates Dice Coefficient: 0.5467,	Soft Exudates Pixel Accuracy: 0.7014
+	Optic Disc IoU: 0.8774,	Optic Disc Dice Coefficient: 0.9347,	Optic Disc Pixel Accuracy: 0.9851
+
+Epoch 47 - Train Metrics:
+	Loss: 0.654521
+	Microaneurysms IoU: 0.2130,	Microaneurysms Dice Coefficient: 0.3512,	Microaneurysms Pixel Accuracy: 0.3130
+	Haemorrhages IoU: 0.3422,	Haemorrhages Dice Coefficient: 0.5099,	Haemorrhages Pixel Accuracy: 0.4207
+	Hard Exudates IoU: 0.5831,	Hard Exudates Dice Coefficient: 0.7366,	Hard Exudates Pixel Accuracy: 0.6834
+	Soft Exudates IoU: 0.2859,	Soft Exudates Dice Coefficient: 0.4447,	Soft Exudates Pixel Accuracy: 0.5298
+	Optic Disc IoU: 0.9053,	Optic Disc Dice Coefficient: 0.9503,	Optic Disc Pixel Accuracy: 0.9563
+Epoch 47 - Test Metrics:
+	Loss: 0.634377
+	Microaneurysms IoU: 0.2442,	Microaneurysms Dice Coefficient: 0.3926,	Microaneurysms Pixel Accuracy: 0.3934
+	Haemorrhages IoU: 0.2841,	Haemorrhages Dice Coefficient: 0.4425,	Haemorrhages Pixel Accuracy: 0.3423
+	Hard Exudates IoU: 0.1615,	Hard Exudates Dice Coefficient: 0.2781,	Hard Exudates Pixel Accuracy: 0.1684
+	Soft Exudates IoU: 0.3663,	Soft Exudates Dice Coefficient: 0.5362,	Soft Exudates Pixel Accuracy: 0.7360
+	Optic Disc IoU: 0.9075,	Optic Disc Dice Coefficient: 0.9515,	Optic Disc Pixel Accuracy: 0.9597
+
+Epoch 48 - Train Metrics:
+	Loss: 0.651728
+	Microaneurysms IoU: 0.2075,	Microaneurysms Dice Coefficient: 0.3436,	Microaneurysms Pixel Accuracy: 0.2917
+	Haemorrhages IoU: 0.3376,	Haemorrhages Dice Coefficient: 0.5048,	Haemorrhages Pixel Accuracy: 0.4395
+	Hard Exudates IoU: 0.5496,	Hard Exudates Dice Coefficient: 0.7093,	Hard Exudates Pixel Accuracy: 0.6291
+	Soft Exudates IoU: 0.2984,	Soft Exudates Dice Coefficient: 0.4597,	Soft Exudates Pixel Accuracy: 0.7275
+	Optic Disc IoU: 0.8903,	Optic Disc Dice Coefficient: 0.9419,	Optic Disc Pixel Accuracy: 0.9322
+Epoch 48 - Test Metrics:
+	Loss: 0.631264
+	Microaneurysms IoU: 0.2404,	Microaneurysms Dice Coefficient: 0.3876,	Microaneurysms Pixel Accuracy: 0.3887
+	Haemorrhages IoU: 0.3023,	Haemorrhages Dice Coefficient: 0.4642,	Haemorrhages Pixel Accuracy: 0.3995
+	Hard Exudates IoU: 0.1402,	Hard Exudates Dice Coefficient: 0.2459,	Hard Exudates Pixel Accuracy: 0.1434
+	Soft Exudates IoU: 0.3341,	Soft Exudates Dice Coefficient: 0.5008,	Soft Exudates Pixel Accuracy: 0.7569
+	Optic Disc IoU: 0.8978,	Optic Disc Dice Coefficient: 0.9462,	Optic Disc Pixel Accuracy: 0.9792
+
+Epoch 49 - Train Metrics:
+	Loss: 0.654471
+	Microaneurysms IoU: 0.2135,	Microaneurysms Dice Coefficient: 0.3518,	Microaneurysms Pixel Accuracy: 0.3157
+	Haemorrhages IoU: 0.3586,	Haemorrhages Dice Coefficient: 0.5279,	Haemorrhages Pixel Accuracy: 0.4848
+	Hard Exudates IoU: 0.5327,	Hard Exudates Dice Coefficient: 0.6951,	Hard Exudates Pixel Accuracy: 0.6138
+	Soft Exudates IoU: 0.2739,	Soft Exudates Dice Coefficient: 0.4300,	Soft Exudates Pixel Accuracy: 0.6350
+	Optic Disc IoU: 0.8823,	Optic Disc Dice Coefficient: 0.9375,	Optic Disc Pixel Accuracy: 0.9465
+Epoch 49 - Test Metrics:
+	Loss: 0.619302
+	Microaneurysms IoU: 0.2228,	Microaneurysms Dice Coefficient: 0.3644,	Microaneurysms Pixel Accuracy: 0.3083
+	Haemorrhages IoU: 0.3042,	Haemorrhages Dice Coefficient: 0.4665,	Haemorrhages Pixel Accuracy: 0.4123
+	Hard Exudates IoU: 0.1663,	Hard Exudates Dice Coefficient: 0.2852,	Hard Exudates Pixel Accuracy: 0.1740
+	Soft Exudates IoU: 0.3738,	Soft Exudates Dice Coefficient: 0.5441,	Soft Exudates Pixel Accuracy: 0.7231
+	Optic Disc IoU: 0.8903,	Optic Disc Dice Coefficient: 0.9420,	Optic Disc Pixel Accuracy: 0.9835
+
+Epoch 50 - Train Metrics:
+	Loss: 0.628859
+	Microaneurysms IoU: 0.2040,	Microaneurysms Dice Coefficient: 0.3388,	Microaneurysms Pixel Accuracy: 0.2827
+	Haemorrhages IoU: 0.3275,	Haemorrhages Dice Coefficient: 0.4934,	Haemorrhages Pixel Accuracy: 0.4185
+	Hard Exudates IoU: 0.5457,	Hard Exudates Dice Coefficient: 0.7061,	Hard Exudates Pixel Accuracy: 0.6609
+	Soft Exudates IoU: 0.3814,	Soft Exudates Dice Coefficient: 0.5522,	Soft Exudates Pixel Accuracy: 0.6455
+	Optic Disc IoU: 0.8781,	Optic Disc Dice Coefficient: 0.9351,	Optic Disc Pixel Accuracy: 0.9253
+Epoch 50 - Test Metrics:
+	Loss: 0.609245
+	Microaneurysms IoU: 0.2442,	Microaneurysms Dice Coefficient: 0.3926,	Microaneurysms Pixel Accuracy: 0.4204
+	Haemorrhages IoU: 0.3146,	Haemorrhages Dice Coefficient: 0.4787,	Haemorrhages Pixel Accuracy: 0.4126
+	Hard Exudates IoU: 0.1614,	Hard Exudates Dice Coefficient: 0.2780,	Hard Exudates Pixel Accuracy: 0.1680
+	Soft Exudates IoU: 0.4033,	Soft Exudates Dice Coefficient: 0.5748,	Soft Exudates Pixel Accuracy: 0.7047
+	Optic Disc IoU: 0.9025,	Optic Disc Dice Coefficient: 0.9487,	Optic Disc Pixel Accuracy: 0.9446
+
+Epoch 51 - Train Metrics:
+	Loss: 0.633129
+	Microaneurysms IoU: 0.2165,	Microaneurysms Dice Coefficient: 0.3559,	Microaneurysms Pixel Accuracy: 0.3308
+	Haemorrhages IoU: 0.3673,	Haemorrhages Dice Coefficient: 0.5372,	Haemorrhages Pixel Accuracy: 0.4555
+	Hard Exudates IoU: 0.5959,	Hard Exudates Dice Coefficient: 0.7468,	Hard Exudates Pixel Accuracy: 0.7078
+	Soft Exudates IoU: 0.3630,	Soft Exudates Dice Coefficient: 0.5327,	Soft Exudates Pixel Accuracy: 0.6590
+	Optic Disc IoU: 0.8720,	Optic Disc Dice Coefficient: 0.9316,	Optic Disc Pixel Accuracy: 0.9003
+Epoch 51 - Test Metrics:
+	Loss: 0.593580
+	Microaneurysms IoU: 0.2434,	Microaneurysms Dice Coefficient: 0.3915,	Microaneurysms Pixel Accuracy: 0.3390
+	Haemorrhages IoU: 0.3314,	Haemorrhages Dice Coefficient: 0.4978,	Haemorrhages Pixel Accuracy: 0.4367
+	Hard Exudates IoU: 0.1625,	Hard Exudates Dice Coefficient: 0.2795,	Hard Exudates Pixel Accuracy: 0.1693
+	Soft Exudates IoU: 0.4010,	Soft Exudates Dice Coefficient: 0.5724,	Soft Exudates Pixel Accuracy: 0.7188
+	Optic Disc IoU: 0.8985,	Optic Disc Dice Coefficient: 0.9465,	Optic Disc Pixel Accuracy: 0.9736
+
+Epoch 52 - Train Metrics:
+	Loss: 0.620364
+	Microaneurysms IoU: 0.2150,	Microaneurysms Dice Coefficient: 0.3539,	Microaneurysms Pixel Accuracy: 0.2890
+	Haemorrhages IoU: 0.3436,	Haemorrhages Dice Coefficient: 0.5115,	Haemorrhages Pixel Accuracy: 0.4431
+	Hard Exudates IoU: 0.5790,	Hard Exudates Dice Coefficient: 0.7334,	Hard Exudates Pixel Accuracy: 0.6984
+	Soft Exudates IoU: 0.2716,	Soft Exudates Dice Coefficient: 0.4272,	Soft Exudates Pixel Accuracy: 0.5340
+	Optic Disc IoU: 0.8799,	Optic Disc Dice Coefficient: 0.9361,	Optic Disc Pixel Accuracy: 0.9460
+Epoch 52 - Test Metrics:
+	Loss: 0.590040
+	Microaneurysms IoU: 0.2455,	Microaneurysms Dice Coefficient: 0.3942,	Microaneurysms Pixel Accuracy: 0.3564
+	Haemorrhages IoU: 0.3184,	Haemorrhages Dice Coefficient: 0.4830,	Haemorrhages Pixel Accuracy: 0.4095
+	Hard Exudates IoU: 0.1460,	Hard Exudates Dice Coefficient: 0.2548,	Hard Exudates Pixel Accuracy: 0.1496
+	Soft Exudates IoU: 0.3918,	Soft Exudates Dice Coefficient: 0.5630,	Soft Exudates Pixel Accuracy: 0.7135
+	Optic Disc IoU: 0.8642,	Optic Disc Dice Coefficient: 0.9272,	Optic Disc Pixel Accuracy: 0.9913
+
+Epoch 53 - Train Metrics:
+	Loss: 0.632204
+	Microaneurysms IoU: 0.2256,	Microaneurysms Dice Coefficient: 0.3682,	Microaneurysms Pixel Accuracy: 0.3043
+	Haemorrhages IoU: 0.3852,	Haemorrhages Dice Coefficient: 0.5561,	Haemorrhages Pixel Accuracy: 0.4577
+	Hard Exudates IoU: 0.5771,	Hard Exudates Dice Coefficient: 0.7318,	Hard Exudates Pixel Accuracy: 0.6515
+	Soft Exudates IoU: 0.3392,	Soft Exudates Dice Coefficient: 0.5065,	Soft Exudates Pixel Accuracy: 0.6097
+	Optic Disc IoU: 0.9008,	Optic Disc Dice Coefficient: 0.9478,	Optic Disc Pixel Accuracy: 0.9659
+Epoch 53 - Test Metrics:
+	Loss: 0.574443
+	Microaneurysms IoU: 0.2509,	Microaneurysms Dice Coefficient: 0.4011,	Microaneurysms Pixel Accuracy: 0.3528
+	Haemorrhages IoU: 0.3019,	Haemorrhages Dice Coefficient: 0.4638,	Haemorrhages Pixel Accuracy: 0.3766
+	Hard Exudates IoU: 0.1578,	Hard Exudates Dice Coefficient: 0.2725,	Hard Exudates Pixel Accuracy: 0.1635
+	Soft Exudates IoU: 0.3939,	Soft Exudates Dice Coefficient: 0.5652,	Soft Exudates Pixel Accuracy: 0.6924
+	Optic Disc IoU: 0.9112,	Optic Disc Dice Coefficient: 0.9536,	Optic Disc Pixel Accuracy: 0.9672
+
+Epoch 54 - Train Metrics:
+	Loss: 0.612121
+	Microaneurysms IoU: 0.2458,	Microaneurysms Dice Coefficient: 0.3947,	Microaneurysms Pixel Accuracy: 0.3305
+	Haemorrhages IoU: 0.3668,	Haemorrhages Dice Coefficient: 0.5367,	Haemorrhages Pixel Accuracy: 0.4951
+	Hard Exudates IoU: 0.5851,	Hard Exudates Dice Coefficient: 0.7383,	Hard Exudates Pixel Accuracy: 0.6935
+	Soft Exudates IoU: 0.3416,	Soft Exudates Dice Coefficient: 0.5093,	Soft Exudates Pixel Accuracy: 0.6912
+	Optic Disc IoU: 0.8860,	Optic Disc Dice Coefficient: 0.9396,	Optic Disc Pixel Accuracy: 0.9156
+Epoch 54 - Test Metrics:
+	Loss: 0.569663
+	Microaneurysms IoU: 0.2632,	Microaneurysms Dice Coefficient: 0.4167,	Microaneurysms Pixel Accuracy: 0.4063
+	Haemorrhages IoU: 0.3241,	Haemorrhages Dice Coefficient: 0.4895,	Haemorrhages Pixel Accuracy: 0.4374
+	Hard Exudates IoU: 0.1584,	Hard Exudates Dice Coefficient: 0.2734,	Hard Exudates Pixel Accuracy: 0.1644
+	Soft Exudates IoU: 0.4166,	Soft Exudates Dice Coefficient: 0.5882,	Soft Exudates Pixel Accuracy: 0.6931
+	Optic Disc IoU: 0.9146,	Optic Disc Dice Coefficient: 0.9554,	Optic Disc Pixel Accuracy: 0.9531
+
+Epoch 55 - Train Metrics:
+	Loss: 0.610195
+	Microaneurysms IoU: 0.2290,	Microaneurysms Dice Coefficient: 0.3727,	Microaneurysms Pixel Accuracy: 0.3645
+	Haemorrhages IoU: 0.3973,	Haemorrhages Dice Coefficient: 0.5687,	Haemorrhages Pixel Accuracy: 0.5254
+	Hard Exudates IoU: 0.6012,	Hard Exudates Dice Coefficient: 0.7510,	Hard Exudates Pixel Accuracy: 0.6970
+	Soft Exudates IoU: 0.4193,	Soft Exudates Dice Coefficient: 0.5909,	Soft Exudates Pixel Accuracy: 0.6628
+	Optic Disc IoU: 0.9043,	Optic Disc Dice Coefficient: 0.9497,	Optic Disc Pixel Accuracy: 0.9348
+Epoch 55 - Test Metrics:
+	Loss: 0.575340
+	Microaneurysms IoU: 0.2625,	Microaneurysms Dice Coefficient: 0.4159,	Microaneurysms Pixel Accuracy: 0.4017
+	Haemorrhages IoU: 0.2662,	Haemorrhages Dice Coefficient: 0.4205,	Haemorrhages Pixel Accuracy: 0.3032
+	Hard Exudates IoU: 0.1547,	Hard Exudates Dice Coefficient: 0.2679,	Hard Exudates Pixel Accuracy: 0.1593
+	Soft Exudates IoU: 0.4320,	Soft Exudates Dice Coefficient: 0.6034,	Soft Exudates Pixel Accuracy: 0.6465
+	Optic Disc IoU: 0.8793,	Optic Disc Dice Coefficient: 0.9358,	Optic Disc Pixel Accuracy: 0.9894
+
+Epoch 56 - Train Metrics:
+	Loss: 0.602156
+	Microaneurysms IoU: 0.2208,	Microaneurysms Dice Coefficient: 0.3618,	Microaneurysms Pixel Accuracy: 0.3066
+	Haemorrhages IoU: 0.3500,	Haemorrhages Dice Coefficient: 0.5185,	Haemorrhages Pixel Accuracy: 0.3939
+	Hard Exudates IoU: 0.5790,	Hard Exudates Dice Coefficient: 0.7334,	Hard Exudates Pixel Accuracy: 0.6679
+	Soft Exudates IoU: 0.4187,	Soft Exudates Dice Coefficient: 0.5903,	Soft Exudates Pixel Accuracy: 0.6479
+	Optic Disc IoU: 0.9074,	Optic Disc Dice Coefficient: 0.9515,	Optic Disc Pixel Accuracy: 0.9717
+Epoch 56 - Test Metrics:
+	Loss: 0.576175
+	Microaneurysms IoU: 0.2244,	Microaneurysms Dice Coefficient: 0.3666,	Microaneurysms Pixel Accuracy: 0.2809
+	Haemorrhages IoU: 0.2710,	Haemorrhages Dice Coefficient: 0.4264,	Haemorrhages Pixel Accuracy: 0.3179
+	Hard Exudates IoU: 0.1593,	Hard Exudates Dice Coefficient: 0.2748,	Hard Exudates Pixel Accuracy: 0.1654
+	Soft Exudates IoU: 0.4284,	Soft Exudates Dice Coefficient: 0.5998,	Soft Exudates Pixel Accuracy: 0.6410
+	Optic Disc IoU: 0.8961,	Optic Disc Dice Coefficient: 0.9452,	Optic Disc Pixel Accuracy: 0.9778
+
+Epoch 57 - Train Metrics:
+	Loss: 0.609450
+	Microaneurysms IoU: 0.2163,	Microaneurysms Dice Coefficient: 0.3556,	Microaneurysms Pixel Accuracy: 0.2913
+	Haemorrhages IoU: 0.2918,	Haemorrhages Dice Coefficient: 0.4518,	Haemorrhages Pixel Accuracy: 0.3500
+	Hard Exudates IoU: 0.5627,	Hard Exudates Dice Coefficient: 0.7202,	Hard Exudates Pixel Accuracy: 0.6590
+	Soft Exudates IoU: 0.3853,	Soft Exudates Dice Coefficient: 0.5563,	Soft Exudates Pixel Accuracy: 0.5640
+	Optic Disc IoU: 0.9085,	Optic Disc Dice Coefficient: 0.9521,	Optic Disc Pixel Accuracy: 0.9371
+Epoch 57 - Test Metrics:
+	Loss: 0.555980
+	Microaneurysms IoU: 0.2502,	Microaneurysms Dice Coefficient: 0.4003,	Microaneurysms Pixel Accuracy: 0.3564
+	Haemorrhages IoU: 0.3161,	Haemorrhages Dice Coefficient: 0.4804,	Haemorrhages Pixel Accuracy: 0.4032
+	Hard Exudates IoU: 0.1504,	Hard Exudates Dice Coefficient: 0.2615,	Hard Exudates Pixel Accuracy: 0.1550
+	Soft Exudates IoU: 0.4325,	Soft Exudates Dice Coefficient: 0.6038,	Soft Exudates Pixel Accuracy: 0.6406
+	Optic Disc IoU: 0.9025,	Optic Disc Dice Coefficient: 0.9487,	Optic Disc Pixel Accuracy: 0.9400
+
+Epoch 58 - Train Metrics:
+	Loss: 0.593464
+	Microaneurysms IoU: 0.2405,	Microaneurysms Dice Coefficient: 0.3878,	Microaneurysms Pixel Accuracy: 0.3438
+	Haemorrhages IoU: 0.3995,	Haemorrhages Dice Coefficient: 0.5709,	Haemorrhages Pixel Accuracy: 0.5116
+	Hard Exudates IoU: 0.5718,	Hard Exudates Dice Coefficient: 0.7275,	Hard Exudates Pixel Accuracy: 0.6865
+	Soft Exudates IoU: 0.2945,	Soft Exudates Dice Coefficient: 0.4550,	Soft Exudates Pixel Accuracy: 0.5398
+	Optic Disc IoU: 0.8917,	Optic Disc Dice Coefficient: 0.9428,	Optic Disc Pixel Accuracy: 0.9328
+Epoch 58 - Test Metrics:
+	Loss: 0.558701
+	Microaneurysms IoU: 0.2572,	Microaneurysms Dice Coefficient: 0.4091,	Microaneurysms Pixel Accuracy: 0.3468
+	Haemorrhages IoU: 0.3099,	Haemorrhages Dice Coefficient: 0.4731,	Haemorrhages Pixel Accuracy: 0.3777
+	Hard Exudates IoU: 0.1492,	Hard Exudates Dice Coefficient: 0.2596,	Hard Exudates Pixel Accuracy: 0.1529
+	Soft Exudates IoU: 0.3710,	Soft Exudates Dice Coefficient: 0.5412,	Soft Exudates Pixel Accuracy: 0.7370
+	Optic Disc IoU: 0.9023,	Optic Disc Dice Coefficient: 0.9486,	Optic Disc Pixel Accuracy: 0.9780
+
+Epoch 59 - Train Metrics:
+	Loss: 0.595030
+	Microaneurysms IoU: 0.2387,	Microaneurysms Dice Coefficient: 0.3854,	Microaneurysms Pixel Accuracy: 0.3200
+	Haemorrhages IoU: 0.4383,	Haemorrhages Dice Coefficient: 0.6095,	Haemorrhages Pixel Accuracy: 0.5665
+	Hard Exudates IoU: 0.5340,	Hard Exudates Dice Coefficient: 0.6962,	Hard Exudates Pixel Accuracy: 0.5871
+	Soft Exudates IoU: 0.2765,	Soft Exudates Dice Coefficient: 0.4332,	Soft Exudates Pixel Accuracy: 0.6772
+	Optic Disc IoU: 0.8992,	Optic Disc Dice Coefficient: 0.9469,	Optic Disc Pixel Accuracy: 0.9661
+Epoch 59 - Test Metrics:
+	Loss: 0.554108
+	Microaneurysms IoU: 0.2400,	Microaneurysms Dice Coefficient: 0.3871,	Microaneurysms Pixel Accuracy: 0.3177
+	Haemorrhages IoU: 0.3014,	Haemorrhages Dice Coefficient: 0.4632,	Haemorrhages Pixel Accuracy: 0.3639
+	Hard Exudates IoU: 0.1619,	Hard Exudates Dice Coefficient: 0.2787,	Hard Exudates Pixel Accuracy: 0.1678
+	Soft Exudates IoU: 0.4285,	Soft Exudates Dice Coefficient: 0.6000,	Soft Exudates Pixel Accuracy: 0.6696
+	Optic Disc IoU: 0.8976,	Optic Disc Dice Coefficient: 0.9460,	Optic Disc Pixel Accuracy: 0.9829
+
+Epoch 60 - Train Metrics:
+	Loss: 0.601554
+	Microaneurysms IoU: 0.2480,	Microaneurysms Dice Coefficient: 0.3974,	Microaneurysms Pixel Accuracy: 0.3470
+	Haemorrhages IoU: 0.4085,	Haemorrhages Dice Coefficient: 0.5800,	Haemorrhages Pixel Accuracy: 0.5443
+	Hard Exudates IoU: 0.6163,	Hard Exudates Dice Coefficient: 0.7626,	Hard Exudates Pixel Accuracy: 0.7723
+	Soft Exudates IoU: 0.4052,	Soft Exudates Dice Coefficient: 0.5767,	Soft Exudates Pixel Accuracy: 0.6355
+	Optic Disc IoU: 0.8955,	Optic Disc Dice Coefficient: 0.9449,	Optic Disc Pixel Accuracy: 0.9543
+Epoch 60 - Test Metrics:
+	Loss: 0.543621
+	Microaneurysms IoU: 0.2475,	Microaneurysms Dice Coefficient: 0.3968,	Microaneurysms Pixel Accuracy: 0.3207
+	Haemorrhages IoU: 0.3065,	Haemorrhages Dice Coefficient: 0.4692,	Haemorrhages Pixel Accuracy: 0.3673
+	Hard Exudates IoU: 0.1626,	Hard Exudates Dice Coefficient: 0.2797,	Hard Exudates Pixel Accuracy: 0.1684
+	Soft Exudates IoU: 0.4415,	Soft Exudates Dice Coefficient: 0.6126,	Soft Exudates Pixel Accuracy: 0.6127
+	Optic Disc IoU: 0.9148,	Optic Disc Dice Coefficient: 0.9555,	Optic Disc Pixel Accuracy: 0.9680
+
+Epoch 61 - Train Metrics:
+	Loss: 0.591424
+	Microaneurysms IoU: 0.2264,	Microaneurysms Dice Coefficient: 0.3692,	Microaneurysms Pixel Accuracy: 0.2985
+	Haemorrhages IoU: 0.3817,	Haemorrhages Dice Coefficient: 0.5525,	Haemorrhages Pixel Accuracy: 0.4906
+	Hard Exudates IoU: 0.6337,	Hard Exudates Dice Coefficient: 0.7758,	Hard Exudates Pixel Accuracy: 0.7595
+	Soft Exudates IoU: 0.4099,	Soft Exudates Dice Coefficient: 0.5815,	Soft Exudates Pixel Accuracy: 0.6177
+	Optic Disc IoU: 0.8642,	Optic Disc Dice Coefficient: 0.9271,	Optic Disc Pixel Accuracy: 0.9114
+Epoch 61 - Test Metrics:
+	Loss: 0.544222
+	Microaneurysms IoU: 0.2524,	Microaneurysms Dice Coefficient: 0.4031,	Microaneurysms Pixel Accuracy: 0.3319
+	Haemorrhages IoU: 0.3138,	Haemorrhages Dice Coefficient: 0.4777,	Haemorrhages Pixel Accuracy: 0.3821
+	Hard Exudates IoU: 0.1607,	Hard Exudates Dice Coefficient: 0.2768,	Hard Exudates Pixel Accuracy: 0.1660
+	Soft Exudates IoU: 0.4405,	Soft Exudates Dice Coefficient: 0.6116,	Soft Exudates Pixel Accuracy: 0.6150
+	Optic Disc IoU: 0.9127,	Optic Disc Dice Coefficient: 0.9543,	Optic Disc Pixel Accuracy: 0.9699
+
+Epoch 62 - Train Metrics:
+	Loss: 0.597858
+	Microaneurysms IoU: 0.2379,	Microaneurysms Dice Coefficient: 0.3844,	Microaneurysms Pixel Accuracy: 0.3123
+	Haemorrhages IoU: 0.4332,	Haemorrhages Dice Coefficient: 0.6045,	Haemorrhages Pixel Accuracy: 0.5522
+	Hard Exudates IoU: 0.6013,	Hard Exudates Dice Coefficient: 0.7510,	Hard Exudates Pixel Accuracy: 0.7166
+	Soft Exudates IoU: 0.3986,	Soft Exudates Dice Coefficient: 0.5700,	Soft Exudates Pixel Accuracy: 0.6361
+	Optic Disc IoU: 0.8840,	Optic Disc Dice Coefficient: 0.9384,	Optic Disc Pixel Accuracy: 0.9622
+Epoch 62 - Test Metrics:
+	Loss: 0.546981
+	Microaneurysms IoU: 0.2542,	Microaneurysms Dice Coefficient: 0.4054,	Microaneurysms Pixel Accuracy: 0.3388
+	Haemorrhages IoU: 0.3111,	Haemorrhages Dice Coefficient: 0.4746,	Haemorrhages Pixel Accuracy: 0.3797
+	Hard Exudates IoU: 0.1594,	Hard Exudates Dice Coefficient: 0.2750,	Hard Exudates Pixel Accuracy: 0.1644
+	Soft Exudates IoU: 0.4426,	Soft Exudates Dice Coefficient: 0.6136,	Soft Exudates Pixel Accuracy: 0.6280
+	Optic Disc IoU: 0.9097,	Optic Disc Dice Coefficient: 0.9527,	Optic Disc Pixel Accuracy: 0.9691
+
+Epoch 63 - Train Metrics:
+	Loss: 0.581591
+	Microaneurysms IoU: 0.2527,	Microaneurysms Dice Coefficient: 0.4035,	Microaneurysms Pixel Accuracy: 0.3512
+	Haemorrhages IoU: 0.4024,	Haemorrhages Dice Coefficient: 0.5739,	Haemorrhages Pixel Accuracy: 0.5133
+	Hard Exudates IoU: 0.6156,	Hard Exudates Dice Coefficient: 0.7621,	Hard Exudates Pixel Accuracy: 0.7128
+	Soft Exudates IoU: 0.5015,	Soft Exudates Dice Coefficient: 0.6680,	Soft Exudates Pixel Accuracy: 0.6489
+	Optic Disc IoU: 0.9095,	Optic Disc Dice Coefficient: 0.9526,	Optic Disc Pixel Accuracy: 0.9471
+Epoch 63 - Test Metrics:
+	Loss: 0.543927
+	Microaneurysms IoU: 0.2568,	Microaneurysms Dice Coefficient: 0.4087,	Microaneurysms Pixel Accuracy: 0.3473
+	Haemorrhages IoU: 0.3111,	Haemorrhages Dice Coefficient: 0.4746,	Haemorrhages Pixel Accuracy: 0.3779
+	Hard Exudates IoU: 0.1593,	Hard Exudates Dice Coefficient: 0.2748,	Hard Exudates Pixel Accuracy: 0.1643
+	Soft Exudates IoU: 0.4472,	Soft Exudates Dice Coefficient: 0.6180,	Soft Exudates Pixel Accuracy: 0.6192
+	Optic Disc IoU: 0.9119,	Optic Disc Dice Coefficient: 0.9539,	Optic Disc Pixel Accuracy: 0.9681
+
+Epoch 64 - Train Metrics:
+	Loss: 0.593720
+	Microaneurysms IoU: 0.2412,	Microaneurysms Dice Coefficient: 0.3887,	Microaneurysms Pixel Accuracy: 0.3343
+	Haemorrhages IoU: 0.3932,	Haemorrhages Dice Coefficient: 0.5644,	Haemorrhages Pixel Accuracy: 0.4995
+	Hard Exudates IoU: 0.5915,	Hard Exudates Dice Coefficient: 0.7433,	Hard Exudates Pixel Accuracy: 0.6754
+	Soft Exudates IoU: 0.3587,	Soft Exudates Dice Coefficient: 0.5280,	Soft Exudates Pixel Accuracy: 0.5283
+	Optic Disc IoU: 0.9062,	Optic Disc Dice Coefficient: 0.9508,	Optic Disc Pixel Accuracy: 0.9487
+Epoch 64 - Test Metrics:
+	Loss: 0.544069
+	Microaneurysms IoU: 0.2594,	Microaneurysms Dice Coefficient: 0.4119,	Microaneurysms Pixel Accuracy: 0.3572
+	Haemorrhages IoU: 0.3165,	Haemorrhages Dice Coefficient: 0.4808,	Haemorrhages Pixel Accuracy: 0.3886
+	Hard Exudates IoU: 0.1581,	Hard Exudates Dice Coefficient: 0.2731,	Hard Exudates Pixel Accuracy: 0.1630
+	Soft Exudates IoU: 0.4513,	Soft Exudates Dice Coefficient: 0.6219,	Soft Exudates Pixel Accuracy: 0.6322
+	Optic Disc IoU: 0.9127,	Optic Disc Dice Coefficient: 0.9543,	Optic Disc Pixel Accuracy: 0.9669
+
+Epoch 65 - Train Metrics:
+	Loss: 0.575405
+	Microaneurysms IoU: 0.2536,	Microaneurysms Dice Coefficient: 0.4046,	Microaneurysms Pixel Accuracy: 0.3466
+	Haemorrhages IoU: 0.3982,	Haemorrhages Dice Coefficient: 0.5696,	Haemorrhages Pixel Accuracy: 0.5025
+	Hard Exudates IoU: 0.6191,	Hard Exudates Dice Coefficient: 0.7648,	Hard Exudates Pixel Accuracy: 0.7296
+	Soft Exudates IoU: 0.4315,	Soft Exudates Dice Coefficient: 0.6029,	Soft Exudates Pixel Accuracy: 0.5945
+	Optic Disc IoU: 0.9010,	Optic Disc Dice Coefficient: 0.9479,	Optic Disc Pixel Accuracy: 0.9333
+Epoch 65 - Test Metrics:
+	Loss: 0.541352
+	Microaneurysms IoU: 0.2593,	Microaneurysms Dice Coefficient: 0.4118,	Microaneurysms Pixel Accuracy: 0.3552
+	Haemorrhages IoU: 0.3156,	Haemorrhages Dice Coefficient: 0.4797,	Haemorrhages Pixel Accuracy: 0.3884
+	Hard Exudates IoU: 0.1595,	Hard Exudates Dice Coefficient: 0.2751,	Hard Exudates Pixel Accuracy: 0.1646
+	Soft Exudates IoU: 0.4559,	Soft Exudates Dice Coefficient: 0.6263,	Soft Exudates Pixel Accuracy: 0.6342
+	Optic Disc IoU: 0.9144,	Optic Disc Dice Coefficient: 0.9553,	Optic Disc Pixel Accuracy: 0.9641
+
+Epoch 66 - Train Metrics:
+	Loss: 0.598737
+	Microaneurysms IoU: 0.2560,	Microaneurysms Dice Coefficient: 0.4076,	Microaneurysms Pixel Accuracy: 0.3574
+	Haemorrhages IoU: 0.3889,	Haemorrhages Dice Coefficient: 0.5601,	Haemorrhages Pixel Accuracy: 0.4658
+	Hard Exudates IoU: 0.5902,	Hard Exudates Dice Coefficient: 0.7423,	Hard Exudates Pixel Accuracy: 0.6847
+	Soft Exudates IoU: 0.4005,	Soft Exudates Dice Coefficient: 0.5719,	Soft Exudates Pixel Accuracy: 0.5212
+	Optic Disc IoU: 0.8935,	Optic Disc Dice Coefficient: 0.9437,	Optic Disc Pixel Accuracy: 0.9320
+Epoch 66 - Test Metrics:
+	Loss: 0.541088
+	Microaneurysms IoU: 0.2577,	Microaneurysms Dice Coefficient: 0.4099,	Microaneurysms Pixel Accuracy: 0.3488
+	Haemorrhages IoU: 0.3122,	Haemorrhages Dice Coefficient: 0.4758,	Haemorrhages Pixel Accuracy: 0.3809
+	Hard Exudates IoU: 0.1611,	Hard Exudates Dice Coefficient: 0.2774,	Hard Exudates Pixel Accuracy: 0.1667
+	Soft Exudates IoU: 0.4521,	Soft Exudates Dice Coefficient: 0.6227,	Soft Exudates Pixel Accuracy: 0.6406
+	Optic Disc IoU: 0.9140,	Optic Disc Dice Coefficient: 0.9551,	Optic Disc Pixel Accuracy: 0.9666
+
+Epoch 67 - Train Metrics:
+	Loss: 0.566739
+	Microaneurysms IoU: 0.2561,	Microaneurysms Dice Coefficient: 0.4078,	Microaneurysms Pixel Accuracy: 0.3567
+	Haemorrhages IoU: 0.3592,	Haemorrhages Dice Coefficient: 0.5285,	Haemorrhages Pixel Accuracy: 0.4534
+	Hard Exudates IoU: 0.5886,	Hard Exudates Dice Coefficient: 0.7410,	Hard Exudates Pixel Accuracy: 0.7035
+	Soft Exudates IoU: 0.4275,	Soft Exudates Dice Coefficient: 0.5989,	Soft Exudates Pixel Accuracy: 0.5905
+	Optic Disc IoU: 0.9139,	Optic Disc Dice Coefficient: 0.9550,	Optic Disc Pixel Accuracy: 0.9521
+Epoch 67 - Test Metrics:
+	Loss: 0.545362
+	Microaneurysms IoU: 0.2513,	Microaneurysms Dice Coefficient: 0.4017,	Microaneurysms Pixel Accuracy: 0.3305
+	Haemorrhages IoU: 0.2969,	Haemorrhages Dice Coefficient: 0.4579,	Haemorrhages Pixel Accuracy: 0.3534
+	Hard Exudates IoU: 0.1608,	Hard Exudates Dice Coefficient: 0.2771,	Hard Exudates Pixel Accuracy: 0.1664
+	Soft Exudates IoU: 0.4485,	Soft Exudates Dice Coefficient: 0.6192,	Soft Exudates Pixel Accuracy: 0.6163
+	Optic Disc IoU: 0.9131,	Optic Disc Dice Coefficient: 0.9546,	Optic Disc Pixel Accuracy: 0.9710
+
+Epoch 68 - Train Metrics:
+	Loss: 0.568120
+	Microaneurysms IoU: 0.2461,	Microaneurysms Dice Coefficient: 0.3950,	Microaneurysms Pixel Accuracy: 0.3321
+	Haemorrhages IoU: 0.3860,	Haemorrhages Dice Coefficient: 0.5570,	Haemorrhages Pixel Accuracy: 0.4571
+	Hard Exudates IoU: 0.5938,	Hard Exudates Dice Coefficient: 0.7451,	Hard Exudates Pixel Accuracy: 0.7032
+	Soft Exudates IoU: 0.4286,	Soft Exudates Dice Coefficient: 0.6000,	Soft Exudates Pixel Accuracy: 0.6148
+	Optic Disc IoU: 0.9056,	Optic Disc Dice Coefficient: 0.9504,	Optic Disc Pixel Accuracy: 0.9442
+Epoch 68 - Test Metrics:
+	Loss: 0.549325
+	Microaneurysms IoU: 0.2494,	Microaneurysms Dice Coefficient: 0.3992,	Microaneurysms Pixel Accuracy: 0.3250
+	Haemorrhages IoU: 0.2903,	Haemorrhages Dice Coefficient: 0.4500,	Haemorrhages Pixel Accuracy: 0.3405
+	Hard Exudates IoU: 0.1579,	Hard Exudates Dice Coefficient: 0.2727,	Hard Exudates Pixel Accuracy: 0.1629
+	Soft Exudates IoU: 0.4540,	Soft Exudates Dice Coefficient: 0.6245,	Soft Exudates Pixel Accuracy: 0.6150
+	Optic Disc IoU: 0.9131,	Optic Disc Dice Coefficient: 0.9546,	Optic Disc Pixel Accuracy: 0.9729
+
+Epoch 69 - Train Metrics:
+	Loss: 0.569783
+	Microaneurysms IoU: 0.2582,	Microaneurysms Dice Coefficient: 0.4105,	Microaneurysms Pixel Accuracy: 0.3574
+	Haemorrhages IoU: 0.4211,	Haemorrhages Dice Coefficient: 0.5926,	Haemorrhages Pixel Accuracy: 0.5179
+	Hard Exudates IoU: 0.5981,	Hard Exudates Dice Coefficient: 0.7485,	Hard Exudates Pixel Accuracy: 0.7148
+	Soft Exudates IoU: 0.4403,	Soft Exudates Dice Coefficient: 0.6114,	Soft Exudates Pixel Accuracy: 0.6553
+	Optic Disc IoU: 0.8914,	Optic Disc Dice Coefficient: 0.9426,	Optic Disc Pixel Accuracy: 0.9277
+Epoch 69 - Test Metrics:
+	Loss: 0.547299
+	Microaneurysms IoU: 0.2508,	Microaneurysms Dice Coefficient: 0.4011,	Microaneurysms Pixel Accuracy: 0.3275
+	Haemorrhages IoU: 0.3015,	Haemorrhages Dice Coefficient: 0.4633,	Haemorrhages Pixel Accuracy: 0.3599
+	Hard Exudates IoU: 0.1586,	Hard Exudates Dice Coefficient: 0.2739,	Hard Exudates Pixel Accuracy: 0.1638
+	Soft Exudates IoU: 0.4522,	Soft Exudates Dice Coefficient: 0.6228,	Soft Exudates Pixel Accuracy: 0.5968
+	Optic Disc IoU: 0.9133,	Optic Disc Dice Coefficient: 0.9547,	Optic Disc Pixel Accuracy: 0.9727
+
+Epoch 70 - Train Metrics:
+	Loss: 0.572354
+	Microaneurysms IoU: 0.2378,	Microaneurysms Dice Coefficient: 0.3842,	Microaneurysms Pixel Accuracy: 0.3257
+	Haemorrhages IoU: 0.4324,	Haemorrhages Dice Coefficient: 0.6037,	Haemorrhages Pixel Accuracy: 0.5285
+	Hard Exudates IoU: 0.6085,	Hard Exudates Dice Coefficient: 0.7566,	Hard Exudates Pixel Accuracy: 0.7073
+	Soft Exudates IoU: 0.4443,	Soft Exudates Dice Coefficient: 0.6152,	Soft Exudates Pixel Accuracy: 0.6522
+	Optic Disc IoU: 0.9120,	Optic Disc Dice Coefficient: 0.9540,	Optic Disc Pixel Accuracy: 0.9590
+Epoch 70 - Test Metrics:
+	Loss: 0.541712
+	Microaneurysms IoU: 0.2555,	Microaneurysms Dice Coefficient: 0.4070,	Microaneurysms Pixel Accuracy: 0.3371
+	Haemorrhages IoU: 0.3067,	Haemorrhages Dice Coefficient: 0.4695,	Haemorrhages Pixel Accuracy: 0.3681
+	Hard Exudates IoU: 0.1559,	Hard Exudates Dice Coefficient: 0.2698,	Hard Exudates Pixel Accuracy: 0.1605
+	Soft Exudates IoU: 0.4547,	Soft Exudates Dice Coefficient: 0.6251,	Soft Exudates Pixel Accuracy: 0.6001
+	Optic Disc IoU: 0.9135,	Optic Disc Dice Coefficient: 0.9548,	Optic Disc Pixel Accuracy: 0.9740
+
+Epoch 71 - Train Metrics:
+	Loss: 0.565142
+	Microaneurysms IoU: 0.2561,	Microaneurysms Dice Coefficient: 0.4078,	Microaneurysms Pixel Accuracy: 0.3515
+	Haemorrhages IoU: 0.4105,	Haemorrhages Dice Coefficient: 0.5821,	Haemorrhages Pixel Accuracy: 0.5102
+	Hard Exudates IoU: 0.6172,	Hard Exudates Dice Coefficient: 0.7633,	Hard Exudates Pixel Accuracy: 0.7190
+	Soft Exudates IoU: 0.4183,	Soft Exudates Dice Coefficient: 0.5899,	Soft Exudates Pixel Accuracy: 0.6270
+	Optic Disc IoU: 0.9046,	Optic Disc Dice Coefficient: 0.9499,	Optic Disc Pixel Accuracy: 0.9381
+Epoch 71 - Test Metrics:
+	Loss: 0.543826
+	Microaneurysms IoU: 0.2549,	Microaneurysms Dice Coefficient: 0.4062,	Microaneurysms Pixel Accuracy: 0.3368
+	Haemorrhages IoU: 0.3053,	Haemorrhages Dice Coefficient: 0.4678,	Haemorrhages Pixel Accuracy: 0.3644
+	Hard Exudates IoU: 0.1555,	Hard Exudates Dice Coefficient: 0.2692,	Hard Exudates Pixel Accuracy: 0.1601
+	Soft Exudates IoU: 0.4533,	Soft Exudates Dice Coefficient: 0.6238,	Soft Exudates Pixel Accuracy: 0.5989
+	Optic Disc IoU: 0.9151,	Optic Disc Dice Coefficient: 0.9557,	Optic Disc Pixel Accuracy: 0.9714
+
+Epoch 72 - Train Metrics:
+	Loss: 0.573241
+	Microaneurysms IoU: 0.2530,	Microaneurysms Dice Coefficient: 0.4039,	Microaneurysms Pixel Accuracy: 0.3545
+	Haemorrhages IoU: 0.4169,	Haemorrhages Dice Coefficient: 0.5885,	Haemorrhages Pixel Accuracy: 0.5207
+	Hard Exudates IoU: 0.6025,	Hard Exudates Dice Coefficient: 0.7519,	Hard Exudates Pixel Accuracy: 0.7100
+	Soft Exudates IoU: 0.3840,	Soft Exudates Dice Coefficient: 0.5549,	Soft Exudates Pixel Accuracy: 0.5660
+	Optic Disc IoU: 0.9222,	Optic Disc Dice Coefficient: 0.9595,	Optic Disc Pixel Accuracy: 0.9504
+Epoch 72 - Test Metrics:
+	Loss: 0.541808
+	Microaneurysms IoU: 0.2563,	Microaneurysms Dice Coefficient: 0.4080,	Microaneurysms Pixel Accuracy: 0.3423
+	Haemorrhages IoU: 0.2985,	Haemorrhages Dice Coefficient: 0.4598,	Haemorrhages Pixel Accuracy: 0.3551
+	Hard Exudates IoU: 0.1573,	Hard Exudates Dice Coefficient: 0.2718,	Hard Exudates Pixel Accuracy: 0.1622
+	Soft Exudates IoU: 0.4542,	Soft Exudates Dice Coefficient: 0.6247,	Soft Exudates Pixel Accuracy: 0.6070
+	Optic Disc IoU: 0.9148,	Optic Disc Dice Coefficient: 0.9555,	Optic Disc Pixel Accuracy: 0.9709
+
+Epoch 73 - Train Metrics:
+	Loss: 0.576080
+	Microaneurysms IoU: 0.2386,	Microaneurysms Dice Coefficient: 0.3852,	Microaneurysms Pixel Accuracy: 0.3332
+	Haemorrhages IoU: 0.3671,	Haemorrhages Dice Coefficient: 0.5370,	Haemorrhages Pixel Accuracy: 0.4403
+	Hard Exudates IoU: 0.5580,	Hard Exudates Dice Coefficient: 0.7163,	Hard Exudates Pixel Accuracy: 0.6518
+	Soft Exudates IoU: 0.4653,	Soft Exudates Dice Coefficient: 0.6351,	Soft Exudates Pixel Accuracy: 0.6941
+	Optic Disc IoU: 0.9108,	Optic Disc Dice Coefficient: 0.9533,	Optic Disc Pixel Accuracy: 0.9499
+Epoch 73 - Test Metrics:
+	Loss: 0.547870
+	Microaneurysms IoU: 0.2518,	Microaneurysms Dice Coefficient: 0.4022,	Microaneurysms Pixel Accuracy: 0.3293
+	Haemorrhages IoU: 0.2993,	Haemorrhages Dice Coefficient: 0.4608,	Haemorrhages Pixel Accuracy: 0.3552
+	Hard Exudates IoU: 0.1542,	Hard Exudates Dice Coefficient: 0.2672,	Hard Exudates Pixel Accuracy: 0.1586
+	Soft Exudates IoU: 0.4483,	Soft Exudates Dice Coefficient: 0.6190,	Soft Exudates Pixel Accuracy: 0.5972
+	Optic Disc IoU: 0.9131,	Optic Disc Dice Coefficient: 0.9546,	Optic Disc Pixel Accuracy: 0.9707
+
+Epoch 74 - Train Metrics:
+	Loss: 0.578720
+	Microaneurysms IoU: 0.2450,	Microaneurysms Dice Coefficient: 0.3936,	Microaneurysms Pixel Accuracy: 0.3423
+	Haemorrhages IoU: 0.4085,	Haemorrhages Dice Coefficient: 0.5801,	Haemorrhages Pixel Accuracy: 0.5098
+	Hard Exudates IoU: 0.5816,	Hard Exudates Dice Coefficient: 0.7354,	Hard Exudates Pixel Accuracy: 0.6912
+	Soft Exudates IoU: 0.4200,	Soft Exudates Dice Coefficient: 0.5916,	Soft Exudates Pixel Accuracy: 0.5832
+	Optic Disc IoU: 0.9139,	Optic Disc Dice Coefficient: 0.9550,	Optic Disc Pixel Accuracy: 0.9557
+Epoch 74 - Test Metrics:
+	Loss: 0.545552
+	Microaneurysms IoU: 0.2478,	Microaneurysms Dice Coefficient: 0.3972,	Microaneurysms Pixel Accuracy: 0.3202
+	Haemorrhages IoU: 0.2957,	Haemorrhages Dice Coefficient: 0.4565,	Haemorrhages Pixel Accuracy: 0.3502
+	Hard Exudates IoU: 0.1571,	Hard Exudates Dice Coefficient: 0.2716,	Hard Exudates Pixel Accuracy: 0.1622
+	Soft Exudates IoU: 0.4466,	Soft Exudates Dice Coefficient: 0.6174,	Soft Exudates Pixel Accuracy: 0.6052
+	Optic Disc IoU: 0.9132,	Optic Disc Dice Coefficient: 0.9546,	Optic Disc Pixel Accuracy: 0.9697
+
+Epoch 75 - Train Metrics:
+	Loss: 0.564661
+	Microaneurysms IoU: 0.2230,	Microaneurysms Dice Coefficient: 0.3646,	Microaneurysms Pixel Accuracy: 0.2989
+	Haemorrhages IoU: 0.3661,	Haemorrhages Dice Coefficient: 0.5360,	Haemorrhages Pixel Accuracy: 0.4493
+	Hard Exudates IoU: 0.5732,	Hard Exudates Dice Coefficient: 0.7287,	Hard Exudates Pixel Accuracy: 0.6785
+	Soft Exudates IoU: 0.4961,	Soft Exudates Dice Coefficient: 0.6632,	Soft Exudates Pixel Accuracy: 0.7138
+	Optic Disc IoU: 0.9008,	Optic Disc Dice Coefficient: 0.9478,	Optic Disc Pixel Accuracy: 0.9480
+Epoch 75 - Test Metrics:
+	Loss: 0.545850
+	Microaneurysms IoU: 0.2457,	Microaneurysms Dice Coefficient: 0.3945,	Microaneurysms Pixel Accuracy: 0.3140
+	Haemorrhages IoU: 0.2893,	Haemorrhages Dice Coefficient: 0.4488,	Haemorrhages Pixel Accuracy: 0.3393
+	Hard Exudates IoU: 0.1587,	Hard Exudates Dice Coefficient: 0.2739,	Hard Exudates Pixel Accuracy: 0.1639
+	Soft Exudates IoU: 0.4447,	Soft Exudates Dice Coefficient: 0.6157,	Soft Exudates Pixel Accuracy: 0.5874
+	Optic Disc IoU: 0.9159,	Optic Disc Dice Coefficient: 0.9561,	Optic Disc Pixel Accuracy: 0.9662
+
+Epoch 76 - Train Metrics:
+	Loss: 0.586899
+	Microaneurysms IoU: 0.2513,	Microaneurysms Dice Coefficient: 0.4017,	Microaneurysms Pixel Accuracy: 0.3483
+	Haemorrhages IoU: 0.4112,	Haemorrhages Dice Coefficient: 0.5828,	Haemorrhages Pixel Accuracy: 0.5459
+	Hard Exudates IoU: 0.6136,	Hard Exudates Dice Coefficient: 0.7606,	Hard Exudates Pixel Accuracy: 0.7353
+	Soft Exudates IoU: 0.3810,	Soft Exudates Dice Coefficient: 0.5518,	Soft Exudates Pixel Accuracy: 0.5956
+	Optic Disc IoU: 0.9086,	Optic Disc Dice Coefficient: 0.9521,	Optic Disc Pixel Accuracy: 0.9539
+Epoch 76 - Test Metrics:
+	Loss: 0.541261
+	Microaneurysms IoU: 0.2495,	Microaneurysms Dice Coefficient: 0.3993,	Microaneurysms Pixel Accuracy: 0.3251
+	Haemorrhages IoU: 0.3028,	Haemorrhages Dice Coefficient: 0.4648,	Haemorrhages Pixel Accuracy: 0.3637
+	Hard Exudates IoU: 0.1601,	Hard Exudates Dice Coefficient: 0.2760,	Hard Exudates Pixel Accuracy: 0.1655
+	Soft Exudates IoU: 0.4468,	Soft Exudates Dice Coefficient: 0.6176,	Soft Exudates Pixel Accuracy: 0.6096
+	Optic Disc IoU: 0.9155,	Optic Disc Dice Coefficient: 0.9559,	Optic Disc Pixel Accuracy: 0.9671
+
+Epoch 77 - Train Metrics:
+	Loss: 0.573243
+	Microaneurysms IoU: 0.2513,	Microaneurysms Dice Coefficient: 0.4017,	Microaneurysms Pixel Accuracy: 0.3507
+	Haemorrhages IoU: 0.4401,	Haemorrhages Dice Coefficient: 0.6112,	Haemorrhages Pixel Accuracy: 0.5732
+	Hard Exudates IoU: 0.5993,	Hard Exudates Dice Coefficient: 0.7494,	Hard Exudates Pixel Accuracy: 0.6997
+	Soft Exudates IoU: 0.4015,	Soft Exudates Dice Coefficient: 0.5729,	Soft Exudates Pixel Accuracy: 0.6293
+	Optic Disc IoU: 0.9030,	Optic Disc Dice Coefficient: 0.9490,	Optic Disc Pixel Accuracy: 0.9459
+Epoch 77 - Test Metrics:
+	Loss: 0.542976
+	Microaneurysms IoU: 0.2508,	Microaneurysms Dice Coefficient: 0.4010,	Microaneurysms Pixel Accuracy: 0.3293
+	Haemorrhages IoU: 0.3081,	Haemorrhages Dice Coefficient: 0.4710,	Haemorrhages Pixel Accuracy: 0.3732
+	Hard Exudates IoU: 0.1571,	Hard Exudates Dice Coefficient: 0.2715,	Hard Exudates Pixel Accuracy: 0.1620
+	Soft Exudates IoU: 0.4464,	Soft Exudates Dice Coefficient: 0.6173,	Soft Exudates Pixel Accuracy: 0.6220
+	Optic Disc IoU: 0.9147,	Optic Disc Dice Coefficient: 0.9555,	Optic Disc Pixel Accuracy: 0.9670
+
+Epoch 78 - Train Metrics:
+	Loss: 0.542520
+	Microaneurysms IoU: 0.2451,	Microaneurysms Dice Coefficient: 0.3937,	Microaneurysms Pixel Accuracy: 0.3560
+	Haemorrhages IoU: 0.3932,	Haemorrhages Dice Coefficient: 0.5645,	Haemorrhages Pixel Accuracy: 0.5124
+	Hard Exudates IoU: 0.5928,	Hard Exudates Dice Coefficient: 0.7443,	Hard Exudates Pixel Accuracy: 0.6818
+	Soft Exudates IoU: 0.5135,	Soft Exudates Dice Coefficient: 0.6786,	Soft Exudates Pixel Accuracy: 0.6820
+	Optic Disc IoU: 0.9098,	Optic Disc Dice Coefficient: 0.9527,	Optic Disc Pixel Accuracy: 0.9492
+Epoch 78 - Test Metrics:
+	Loss: 0.543710
+	Microaneurysms IoU: 0.2525,	Microaneurysms Dice Coefficient: 0.4032,	Microaneurysms Pixel Accuracy: 0.3321
+	Haemorrhages IoU: 0.3065,	Haemorrhages Dice Coefficient: 0.4692,	Haemorrhages Pixel Accuracy: 0.3675
+	Hard Exudates IoU: 0.1546,	Hard Exudates Dice Coefficient: 0.2679,	Hard Exudates Pixel Accuracy: 0.1592
+	Soft Exudates IoU: 0.4469,	Soft Exudates Dice Coefficient: 0.6177,	Soft Exudates Pixel Accuracy: 0.5979
+	Optic Disc IoU: 0.9157,	Optic Disc Dice Coefficient: 0.9560,	Optic Disc Pixel Accuracy: 0.9677
+
+Epoch 79 - Train Metrics:
+	Loss: 0.586912
+	Microaneurysms IoU: 0.2429,	Microaneurysms Dice Coefficient: 0.3909,	Microaneurysms Pixel Accuracy: 0.3293
+	Haemorrhages IoU: 0.3692,	Haemorrhages Dice Coefficient: 0.5393,	Haemorrhages Pixel Accuracy: 0.4478
+	Hard Exudates IoU: 0.5860,	Hard Exudates Dice Coefficient: 0.7390,	Hard Exudates Pixel Accuracy: 0.6821
+	Soft Exudates IoU: 0.3498,	Soft Exudates Dice Coefficient: 0.5183,	Soft Exudates Pixel Accuracy: 0.6155
+	Optic Disc IoU: 0.9215,	Optic Disc Dice Coefficient: 0.9591,	Optic Disc Pixel Accuracy: 0.9633
+Epoch 79 - Test Metrics:
+	Loss: 0.541717
+	Microaneurysms IoU: 0.2528,	Microaneurysms Dice Coefficient: 0.4036,	Microaneurysms Pixel Accuracy: 0.3329
+	Haemorrhages IoU: 0.3142,	Haemorrhages Dice Coefficient: 0.4782,	Haemorrhages Pixel Accuracy: 0.3813
+	Hard Exudates IoU: 0.1551,	Hard Exudates Dice Coefficient: 0.2685,	Hard Exudates Pixel Accuracy: 0.1597
+	Soft Exudates IoU: 0.4473,	Soft Exudates Dice Coefficient: 0.6181,	Soft Exudates Pixel Accuracy: 0.6132
+	Optic Disc IoU: 0.9153,	Optic Disc Dice Coefficient: 0.9558,	Optic Disc Pixel Accuracy: 0.9670
+
+Epoch 80 - Train Metrics:
+	Loss: 0.581828
+	Microaneurysms IoU: 0.2435,	Microaneurysms Dice Coefficient: 0.3916,	Microaneurysms Pixel Accuracy: 0.3370
+	Haemorrhages IoU: 0.4041,	Haemorrhages Dice Coefficient: 0.5756,	Haemorrhages Pixel Accuracy: 0.4985
+	Hard Exudates IoU: 0.5967,	Hard Exudates Dice Coefficient: 0.7474,	Hard Exudates Pixel Accuracy: 0.7012
+	Soft Exudates IoU: 0.4002,	Soft Exudates Dice Coefficient: 0.5717,	Soft Exudates Pixel Accuracy: 0.5813
+	Optic Disc IoU: 0.9170,	Optic Disc Dice Coefficient: 0.9567,	Optic Disc Pixel Accuracy: 0.9440
+Epoch 80 - Test Metrics:
+	Loss: 0.538253
+	Microaneurysms IoU: 0.2568,	Microaneurysms Dice Coefficient: 0.4086,	Microaneurysms Pixel Accuracy: 0.3396
+	Haemorrhages IoU: 0.3161,	Haemorrhages Dice Coefficient: 0.4804,	Haemorrhages Pixel Accuracy: 0.3842
+	Hard Exudates IoU: 0.1594,	Hard Exudates Dice Coefficient: 0.2750,	Hard Exudates Pixel Accuracy: 0.1648
+	Soft Exudates IoU: 0.4504,	Soft Exudates Dice Coefficient: 0.6210,	Soft Exudates Pixel Accuracy: 0.6145
+	Optic Disc IoU: 0.9172,	Optic Disc Dice Coefficient: 0.9568,	Optic Disc Pixel Accuracy: 0.9653
+
+Epoch 81 - Train Metrics:
+	Loss: 0.586996
+	Microaneurysms IoU: 0.2462,	Microaneurysms Dice Coefficient: 0.3951,	Microaneurysms Pixel Accuracy: 0.3426
+	Haemorrhages IoU: 0.4168,	Haemorrhages Dice Coefficient: 0.5884,	Haemorrhages Pixel Accuracy: 0.5317
+	Hard Exudates IoU: 0.6014,	Hard Exudates Dice Coefficient: 0.7511,	Hard Exudates Pixel Accuracy: 0.7111
+	Soft Exudates IoU: 0.2870,	Soft Exudates Dice Coefficient: 0.4459,	Soft Exudates Pixel Accuracy: 0.4672
+	Optic Disc IoU: 0.9102,	Optic Disc Dice Coefficient: 0.9530,	Optic Disc Pixel Accuracy: 0.9430
+Epoch 81 - Test Metrics:
+	Loss: 0.536518
+	Microaneurysms IoU: 0.2625,	Microaneurysms Dice Coefficient: 0.4159,	Microaneurysms Pixel Accuracy: 0.3547
+	Haemorrhages IoU: 0.3179,	Haemorrhages Dice Coefficient: 0.4825,	Haemorrhages Pixel Accuracy: 0.3854
+	Hard Exudates IoU: 0.1612,	Hard Exudates Dice Coefficient: 0.2776,	Hard Exudates Pixel Accuracy: 0.1668
+	Soft Exudates IoU: 0.4520,	Soft Exudates Dice Coefficient: 0.6226,	Soft Exudates Pixel Accuracy: 0.6043
+	Optic Disc IoU: 0.9172,	Optic Disc Dice Coefficient: 0.9568,	Optic Disc Pixel Accuracy: 0.9674
+
+Epoch 82 - Train Metrics:
+	Loss: 0.588070
+	Microaneurysms IoU: 0.2434,	Microaneurysms Dice Coefficient: 0.3915,	Microaneurysms Pixel Accuracy: 0.3339
+	Haemorrhages IoU: 0.4175,	Haemorrhages Dice Coefficient: 0.5891,	Haemorrhages Pixel Accuracy: 0.5092
+	Hard Exudates IoU: 0.5906,	Hard Exudates Dice Coefficient: 0.7426,	Hard Exudates Pixel Accuracy: 0.6857
+	Soft Exudates IoU: 0.4700,	Soft Exudates Dice Coefficient: 0.6395,	Soft Exudates Pixel Accuracy: 0.7189
+	Optic Disc IoU: 0.9049,	Optic Disc Dice Coefficient: 0.9501,	Optic Disc Pixel Accuracy: 0.9383
+Epoch 82 - Test Metrics:
+	Loss: 0.541293
+	Microaneurysms IoU: 0.2605,	Microaneurysms Dice Coefficient: 0.4134,	Microaneurysms Pixel Accuracy: 0.3522
+	Haemorrhages IoU: 0.3208,	Haemorrhages Dice Coefficient: 0.4858,	Haemorrhages Pixel Accuracy: 0.3939
+	Hard Exudates IoU: 0.1569,	Hard Exudates Dice Coefficient: 0.2713,	Hard Exudates Pixel Accuracy: 0.1617
+	Soft Exudates IoU: 0.4519,	Soft Exudates Dice Coefficient: 0.6225,	Soft Exudates Pixel Accuracy: 0.6135
+	Optic Disc IoU: 0.9137,	Optic Disc Dice Coefficient: 0.9549,	Optic Disc Pixel Accuracy: 0.9717
+
+Epoch 83 - Train Metrics:
+	Loss: 0.579721
+	Microaneurysms IoU: 0.2255,	Microaneurysms Dice Coefficient: 0.3680,	Microaneurysms Pixel Accuracy: 0.3140
+	Haemorrhages IoU: 0.4683,	Haemorrhages Dice Coefficient: 0.6379,	Haemorrhages Pixel Accuracy: 0.5674
+	Hard Exudates IoU: 0.5747,	Hard Exudates Dice Coefficient: 0.7299,	Hard Exudates Pixel Accuracy: 0.6655
+	Soft Exudates IoU: 0.3785,	Soft Exudates Dice Coefficient: 0.5492,	Soft Exudates Pixel Accuracy: 0.5568
+	Optic Disc IoU: 0.8994,	Optic Disc Dice Coefficient: 0.9470,	Optic Disc Pixel Accuracy: 0.9360
+Epoch 83 - Test Metrics:
+	Loss: 0.541894
+	Microaneurysms IoU: 0.2554,	Microaneurysms Dice Coefficient: 0.4069,	Microaneurysms Pixel Accuracy: 0.3430
+	Haemorrhages IoU: 0.3133,	Haemorrhages Dice Coefficient: 0.4772,	Haemorrhages Pixel Accuracy: 0.3781
+	Hard Exudates IoU: 0.1561,	Hard Exudates Dice Coefficient: 0.2701,	Hard Exudates Pixel Accuracy: 0.1607
+	Soft Exudates IoU: 0.4492,	Soft Exudates Dice Coefficient: 0.6199,	Soft Exudates Pixel Accuracy: 0.6201
+	Optic Disc IoU: 0.9136,	Optic Disc Dice Coefficient: 0.9549,	Optic Disc Pixel Accuracy: 0.9736
+
+Epoch 84 - Train Metrics:
+	Loss: 0.580734
+	Microaneurysms IoU: 0.2382,	Microaneurysms Dice Coefficient: 0.3848,	Microaneurysms Pixel Accuracy: 0.3342
+	Haemorrhages IoU: 0.4511,	Haemorrhages Dice Coefficient: 0.6217,	Haemorrhages Pixel Accuracy: 0.5684
+	Hard Exudates IoU: 0.5902,	Hard Exudates Dice Coefficient: 0.7423,	Hard Exudates Pixel Accuracy: 0.6807
+	Soft Exudates IoU: 0.4722,	Soft Exudates Dice Coefficient: 0.6415,	Soft Exudates Pixel Accuracy: 0.6877
+	Optic Disc IoU: 0.9064,	Optic Disc Dice Coefficient: 0.9509,	Optic Disc Pixel Accuracy: 0.9523
+Epoch 84 - Test Metrics:
+	Loss: 0.538709
+	Microaneurysms IoU: 0.2588,	Microaneurysms Dice Coefficient: 0.4112,	Microaneurysms Pixel Accuracy: 0.3509
+	Haemorrhages IoU: 0.3175,	Haemorrhages Dice Coefficient: 0.4820,	Haemorrhages Pixel Accuracy: 0.3853
+	Hard Exudates IoU: 0.1565,	Hard Exudates Dice Coefficient: 0.2706,	Hard Exudates Pixel Accuracy: 0.1610
+	Soft Exudates IoU: 0.4514,	Soft Exudates Dice Coefficient: 0.6220,	Soft Exudates Pixel Accuracy: 0.6104
+	Optic Disc IoU: 0.9137,	Optic Disc Dice Coefficient: 0.9549,	Optic Disc Pixel Accuracy: 0.9743
+
+Epoch 85 - Train Metrics:
+	Loss: 0.563075
+	Microaneurysms IoU: 0.2664,	Microaneurysms Dice Coefficient: 0.4208,	Microaneurysms Pixel Accuracy: 0.3719
+	Haemorrhages IoU: 0.3953,	Haemorrhages Dice Coefficient: 0.5666,	Haemorrhages Pixel Accuracy: 0.5085
+	Hard Exudates IoU: 0.5967,	Hard Exudates Dice Coefficient: 0.7475,	Hard Exudates Pixel Accuracy: 0.6942
+	Soft Exudates IoU: 0.3900,	Soft Exudates Dice Coefficient: 0.5612,	Soft Exudates Pixel Accuracy: 0.6293
+	Optic Disc IoU: 0.8871,	Optic Disc Dice Coefficient: 0.9402,	Optic Disc Pixel Accuracy: 0.9252
+Epoch 85 - Test Metrics:
+	Loss: 0.536859
+	Microaneurysms IoU: 0.2616,	Microaneurysms Dice Coefficient: 0.4147,	Microaneurysms Pixel Accuracy: 0.3531
+	Haemorrhages IoU: 0.3281,	Haemorrhages Dice Coefficient: 0.4941,	Haemorrhages Pixel Accuracy: 0.4111
+	Hard Exudates IoU: 0.1565,	Hard Exudates Dice Coefficient: 0.2706,	Hard Exudates Pixel Accuracy: 0.1612
+	Soft Exudates IoU: 0.4522,	Soft Exudates Dice Coefficient: 0.6228,	Soft Exudates Pixel Accuracy: 0.6156
+	Optic Disc IoU: 0.9133,	Optic Disc Dice Coefficient: 0.9547,	Optic Disc Pixel Accuracy: 0.9751
+
+Epoch 86 - Train Metrics:
+	Loss: 0.603310
+	Microaneurysms IoU: 0.2520,	Microaneurysms Dice Coefficient: 0.4025,	Microaneurysms Pixel Accuracy: 0.3411
+	Haemorrhages IoU: 0.4282,	Haemorrhages Dice Coefficient: 0.5996,	Haemorrhages Pixel Accuracy: 0.5496
+	Hard Exudates IoU: 0.5918,	Hard Exudates Dice Coefficient: 0.7436,	Hard Exudates Pixel Accuracy: 0.7044
+	Soft Exudates IoU: 0.4298,	Soft Exudates Dice Coefficient: 0.6012,	Soft Exudates Pixel Accuracy: 0.6617
+	Optic Disc IoU: 0.9065,	Optic Disc Dice Coefficient: 0.9509,	Optic Disc Pixel Accuracy: 0.9570
+Epoch 86 - Test Metrics:
+	Loss: 0.543616
+	Microaneurysms IoU: 0.2627,	Microaneurysms Dice Coefficient: 0.4161,	Microaneurysms Pixel Accuracy: 0.3600
+	Haemorrhages IoU: 0.3273,	Haemorrhages Dice Coefficient: 0.4932,	Haemorrhages Pixel Accuracy: 0.4124
+	Hard Exudates IoU: 0.1611,	Hard Exudates Dice Coefficient: 0.2776,	Hard Exudates Pixel Accuracy: 0.1667
+	Soft Exudates IoU: 0.4514,	Soft Exudates Dice Coefficient: 0.6220,	Soft Exudates Pixel Accuracy: 0.6373
+	Optic Disc IoU: 0.9131,	Optic Disc Dice Coefficient: 0.9546,	Optic Disc Pixel Accuracy: 0.9746
+
+Epoch 87 - Train Metrics:
+	Loss: 0.571984
+	Microaneurysms IoU: 0.2651,	Microaneurysms Dice Coefficient: 0.4192,	Microaneurysms Pixel Accuracy: 0.3508
+	Haemorrhages IoU: 0.4313,	Haemorrhages Dice Coefficient: 0.6027,	Haemorrhages Pixel Accuracy: 0.5442
+	Hard Exudates IoU: 0.6085,	Hard Exudates Dice Coefficient: 0.7566,	Hard Exudates Pixel Accuracy: 0.7113
+	Soft Exudates IoU: 0.4712,	Soft Exudates Dice Coefficient: 0.6406,	Soft Exudates Pixel Accuracy: 0.6899
+	Optic Disc IoU: 0.9037,	Optic Disc Dice Coefficient: 0.9494,	Optic Disc Pixel Accuracy: 0.9507
+Epoch 87 - Test Metrics:
+	Loss: 0.539423
+	Microaneurysms IoU: 0.2596,	Microaneurysms Dice Coefficient: 0.4122,	Microaneurysms Pixel Accuracy: 0.3506
+	Haemorrhages IoU: 0.3091,	Haemorrhages Dice Coefficient: 0.4722,	Haemorrhages Pixel Accuracy: 0.3730
+	Hard Exudates IoU: 0.1603,	Hard Exudates Dice Coefficient: 0.2763,	Hard Exudates Pixel Accuracy: 0.1656
+	Soft Exudates IoU: 0.4471,	Soft Exudates Dice Coefficient: 0.6180,	Soft Exudates Pixel Accuracy: 0.6252
+	Optic Disc IoU: 0.9138,	Optic Disc Dice Coefficient: 0.9549,	Optic Disc Pixel Accuracy: 0.9743
+
+Epoch 88 - Train Metrics:
+	Loss: 0.571705
+	Microaneurysms IoU: 0.2445,	Microaneurysms Dice Coefficient: 0.3929,	Microaneurysms Pixel Accuracy: 0.3356
+	Haemorrhages IoU: 0.4032,	Haemorrhages Dice Coefficient: 0.5747,	Haemorrhages Pixel Accuracy: 0.4920
+	Hard Exudates IoU: 0.5742,	Hard Exudates Dice Coefficient: 0.7295,	Hard Exudates Pixel Accuracy: 0.6640
+	Soft Exudates IoU: 0.3846,	Soft Exudates Dice Coefficient: 0.5556,	Soft Exudates Pixel Accuracy: 0.5919
+	Optic Disc IoU: 0.9179,	Optic Disc Dice Coefficient: 0.9572,	Optic Disc Pixel Accuracy: 0.9569
+Epoch 88 - Test Metrics:
+	Loss: 0.537426
+	Microaneurysms IoU: 0.2578,	Microaneurysms Dice Coefficient: 0.4099,	Microaneurysms Pixel Accuracy: 0.3427
+	Haemorrhages IoU: 0.3040,	Haemorrhages Dice Coefficient: 0.4662,	Haemorrhages Pixel Accuracy: 0.3611
+	Hard Exudates IoU: 0.1587,	Hard Exudates Dice Coefficient: 0.2739,	Hard Exudates Pixel Accuracy: 0.1639
+	Soft Exudates IoU: 0.4446,	Soft Exudates Dice Coefficient: 0.6156,	Soft Exudates Pixel Accuracy: 0.6042
+	Optic Disc IoU: 0.9159,	Optic Disc Dice Coefficient: 0.9561,	Optic Disc Pixel Accuracy: 0.9701
+
+Epoch 89 - Train Metrics:
+	Loss: 0.600187
+	Microaneurysms IoU: 0.2492,	Microaneurysms Dice Coefficient: 0.3990,	Microaneurysms Pixel Accuracy: 0.3262
+	Haemorrhages IoU: 0.4484,	Haemorrhages Dice Coefficient: 0.6192,	Haemorrhages Pixel Accuracy: 0.5317
+	Hard Exudates IoU: 0.5757,	Hard Exudates Dice Coefficient: 0.7307,	Hard Exudates Pixel Accuracy: 0.6941
+	Soft Exudates IoU: 0.3792,	Soft Exudates Dice Coefficient: 0.5498,	Soft Exudates Pixel Accuracy: 0.6748
+	Optic Disc IoU: 0.9001,	Optic Disc Dice Coefficient: 0.9474,	Optic Disc Pixel Accuracy: 0.9582
+Epoch 89 - Test Metrics:
+	Loss: 0.540736
+	Microaneurysms IoU: 0.2608,	Microaneurysms Dice Coefficient: 0.4137,	Microaneurysms Pixel Accuracy: 0.3506
+	Haemorrhages IoU: 0.3088,	Haemorrhages Dice Coefficient: 0.4719,	Haemorrhages Pixel Accuracy: 0.3697
+	Hard Exudates IoU: 0.1599,	Hard Exudates Dice Coefficient: 0.2757,	Hard Exudates Pixel Accuracy: 0.1653
+	Soft Exudates IoU: 0.4455,	Soft Exudates Dice Coefficient: 0.6164,	Soft Exudates Pixel Accuracy: 0.6165
+	Optic Disc IoU: 0.9163,	Optic Disc Dice Coefficient: 0.9563,	Optic Disc Pixel Accuracy: 0.9704
+
+Epoch 90 - Train Metrics:
+	Loss: 0.577413
+	Microaneurysms IoU: 0.2449,	Microaneurysms Dice Coefficient: 0.3934,	Microaneurysms Pixel Accuracy: 0.3321
+	Haemorrhages IoU: 0.3943,	Haemorrhages Dice Coefficient: 0.5656,	Haemorrhages Pixel Accuracy: 0.4559
+	Hard Exudates IoU: 0.5888,	Hard Exudates Dice Coefficient: 0.7412,	Hard Exudates Pixel Accuracy: 0.6878
+	Soft Exudates IoU: 0.3614,	Soft Exudates Dice Coefficient: 0.5309,	Soft Exudates Pixel Accuracy: 0.5751
+	Optic Disc IoU: 0.9107,	Optic Disc Dice Coefficient: 0.9533,	Optic Disc Pixel Accuracy: 0.9497
+Epoch 90 - Test Metrics:
+	Loss: 0.539340
+	Microaneurysms IoU: 0.2616,	Microaneurysms Dice Coefficient: 0.4147,	Microaneurysms Pixel Accuracy: 0.3570
+	Haemorrhages IoU: 0.3097,	Haemorrhages Dice Coefficient: 0.4729,	Haemorrhages Pixel Accuracy: 0.3722
+	Hard Exudates IoU: 0.1595,	Hard Exudates Dice Coefficient: 0.2751,	Hard Exudates Pixel Accuracy: 0.1648
+	Soft Exudates IoU: 0.4475,	Soft Exudates Dice Coefficient: 0.6183,	Soft Exudates Pixel Accuracy: 0.5946
+	Optic Disc IoU: 0.9181,	Optic Disc Dice Coefficient: 0.9573,	Optic Disc Pixel Accuracy: 0.9688
+
+Epoch 91 - Train Metrics:
+	Loss: 0.576259
+	Microaneurysms IoU: 0.2600,	Microaneurysms Dice Coefficient: 0.4127,	Microaneurysms Pixel Accuracy: 0.3735
+	Haemorrhages IoU: 0.3946,	Haemorrhages Dice Coefficient: 0.5659,	Haemorrhages Pixel Accuracy: 0.5059
+	Hard Exudates IoU: 0.5748,	Hard Exudates Dice Coefficient: 0.7300,	Hard Exudates Pixel Accuracy: 0.6758
+	Soft Exudates IoU: 0.3918,	Soft Exudates Dice Coefficient: 0.5630,	Soft Exudates Pixel Accuracy: 0.5639
+	Optic Disc IoU: 0.8887,	Optic Disc Dice Coefficient: 0.9411,	Optic Disc Pixel Accuracy: 0.9438
+Epoch 91 - Test Metrics:
+	Loss: 0.539862
+	Microaneurysms IoU: 0.2639,	Microaneurysms Dice Coefficient: 0.4176,	Microaneurysms Pixel Accuracy: 0.3677
+	Haemorrhages IoU: 0.3205,	Haemorrhages Dice Coefficient: 0.4854,	Haemorrhages Pixel Accuracy: 0.3959
+	Hard Exudates IoU: 0.1596,	Hard Exudates Dice Coefficient: 0.2752,	Hard Exudates Pixel Accuracy: 0.1650
+	Soft Exudates IoU: 0.4506,	Soft Exudates Dice Coefficient: 0.6212,	Soft Exudates Pixel Accuracy: 0.6054
+	Optic Disc IoU: 0.9178,	Optic Disc Dice Coefficient: 0.9572,	Optic Disc Pixel Accuracy: 0.9693
+
+Epoch 92 - Train Metrics:
+	Loss: 0.574259
+	Microaneurysms IoU: 0.2544,	Microaneurysms Dice Coefficient: 0.4057,	Microaneurysms Pixel Accuracy: 0.3503
+	Haemorrhages IoU: 0.4247,	Haemorrhages Dice Coefficient: 0.5962,	Haemorrhages Pixel Accuracy: 0.5172
+	Hard Exudates IoU: 0.6111,	Hard Exudates Dice Coefficient: 0.7586,	Hard Exudates Pixel Accuracy: 0.7243
+	Soft Exudates IoU: 0.4872,	Soft Exudates Dice Coefficient: 0.6552,	Soft Exudates Pixel Accuracy: 0.6002
+	Optic Disc IoU: 0.9136,	Optic Disc Dice Coefficient: 0.9548,	Optic Disc Pixel Accuracy: 0.9530
+Epoch 92 - Test Metrics:
+	Loss: 0.537711
+	Microaneurysms IoU: 0.2625,	Microaneurysms Dice Coefficient: 0.4158,	Microaneurysms Pixel Accuracy: 0.3618
+	Haemorrhages IoU: 0.3207,	Haemorrhages Dice Coefficient: 0.4857,	Haemorrhages Pixel Accuracy: 0.3952
+	Hard Exudates IoU: 0.1600,	Hard Exudates Dice Coefficient: 0.2759,	Hard Exudates Pixel Accuracy: 0.1654
+	Soft Exudates IoU: 0.4489,	Soft Exudates Dice Coefficient: 0.6196,	Soft Exudates Pixel Accuracy: 0.6144
+	Optic Disc IoU: 0.9184,	Optic Disc Dice Coefficient: 0.9575,	Optic Disc Pixel Accuracy: 0.9696
+
+Epoch 93 - Train Metrics:
+	Loss: 0.556916
+	Microaneurysms IoU: 0.2587,	Microaneurysms Dice Coefficient: 0.4111,	Microaneurysms Pixel Accuracy: 0.3617
+	Haemorrhages IoU: 0.4109,	Haemorrhages Dice Coefficient: 0.5825,	Haemorrhages Pixel Accuracy: 0.5251
+	Hard Exudates IoU: 0.5922,	Hard Exudates Dice Coefficient: 0.7438,	Hard Exudates Pixel Accuracy: 0.7005
+	Soft Exudates IoU: 0.4693,	Soft Exudates Dice Coefficient: 0.6388,	Soft Exudates Pixel Accuracy: 0.6765
+	Optic Disc IoU: 0.9096,	Optic Disc Dice Coefficient: 0.9526,	Optic Disc Pixel Accuracy: 0.9472
+Epoch 93 - Test Metrics:
+	Loss: 0.538202
+	Microaneurysms IoU: 0.2602,	Microaneurysms Dice Coefficient: 0.4130,	Microaneurysms Pixel Accuracy: 0.3541
+	Haemorrhages IoU: 0.3197,	Haemorrhages Dice Coefficient: 0.4846,	Haemorrhages Pixel Accuracy: 0.3937
+	Hard Exudates IoU: 0.1600,	Hard Exudates Dice Coefficient: 0.2759,	Hard Exudates Pixel Accuracy: 0.1653
+	Soft Exudates IoU: 0.4476,	Soft Exudates Dice Coefficient: 0.6184,	Soft Exudates Pixel Accuracy: 0.6128
+	Optic Disc IoU: 0.9173,	Optic Disc Dice Coefficient: 0.9568,	Optic Disc Pixel Accuracy: 0.9693
+
+Epoch 94 - Train Metrics:
+	Loss: 0.565127
+	Microaneurysms IoU: 0.2590,	Microaneurysms Dice Coefficient: 0.4115,	Microaneurysms Pixel Accuracy: 0.3585
+	Haemorrhages IoU: 0.4013,	Haemorrhages Dice Coefficient: 0.5728,	Haemorrhages Pixel Accuracy: 0.5184
+	Hard Exudates IoU: 0.5896,	Hard Exudates Dice Coefficient: 0.7418,	Hard Exudates Pixel Accuracy: 0.7204
+	Soft Exudates IoU: 0.4008,	Soft Exudates Dice Coefficient: 0.5723,	Soft Exudates Pixel Accuracy: 0.5728
+	Optic Disc IoU: 0.8931,	Optic Disc Dice Coefficient: 0.9435,	Optic Disc Pixel Accuracy: 0.9222
+Epoch 94 - Test Metrics:
+	Loss: 0.539286
+	Microaneurysms IoU: 0.2587,	Microaneurysms Dice Coefficient: 0.4110,	Microaneurysms Pixel Accuracy: 0.3457
+	Haemorrhages IoU: 0.3213,	Haemorrhages Dice Coefficient: 0.4863,	Haemorrhages Pixel Accuracy: 0.3970
+	Hard Exudates IoU: 0.1570,	Hard Exudates Dice Coefficient: 0.2714,	Hard Exudates Pixel Accuracy: 0.1618
+	Soft Exudates IoU: 0.4438,	Soft Exudates Dice Coefficient: 0.6147,	Soft Exudates Pixel Accuracy: 0.6078
+	Optic Disc IoU: 0.9160,	Optic Disc Dice Coefficient: 0.9561,	Optic Disc Pixel Accuracy: 0.9710
+
+Epoch 95 - Train Metrics:
+	Loss: 0.552515
+	Microaneurysms IoU: 0.2703,	Microaneurysms Dice Coefficient: 0.4255,	Microaneurysms Pixel Accuracy: 0.3718
+	Haemorrhages IoU: 0.4091,	Haemorrhages Dice Coefficient: 0.5806,	Haemorrhages Pixel Accuracy: 0.5210
+	Hard Exudates IoU: 0.6155,	Hard Exudates Dice Coefficient: 0.7620,	Hard Exudates Pixel Accuracy: 0.7206
+	Soft Exudates IoU: 0.4281,	Soft Exudates Dice Coefficient: 0.5995,	Soft Exudates Pixel Accuracy: 0.5964
+	Optic Disc IoU: 0.9182,	Optic Disc Dice Coefficient: 0.9574,	Optic Disc Pixel Accuracy: 0.9520
+Epoch 95 - Test Metrics:
+	Loss: 0.538552
+	Microaneurysms IoU: 0.2596,	Microaneurysms Dice Coefficient: 0.4122,	Microaneurysms Pixel Accuracy: 0.3459
+	Haemorrhages IoU: 0.3166,	Haemorrhages Dice Coefficient: 0.4810,	Haemorrhages Pixel Accuracy: 0.3868
+	Hard Exudates IoU: 0.1556,	Hard Exudates Dice Coefficient: 0.2694,	Hard Exudates Pixel Accuracy: 0.1601
+	Soft Exudates IoU: 0.4440,	Soft Exudates Dice Coefficient: 0.6150,	Soft Exudates Pixel Accuracy: 0.5827
+	Optic Disc IoU: 0.9154,	Optic Disc Dice Coefficient: 0.9558,	Optic Disc Pixel Accuracy: 0.9728
+
+Epoch 96 - Train Metrics:
+	Loss: 0.563007
+	Microaneurysms IoU: 0.2546,	Microaneurysms Dice Coefficient: 0.4059,	Microaneurysms Pixel Accuracy: 0.3568
+	Haemorrhages IoU: 0.3814,	Haemorrhages Dice Coefficient: 0.5522,	Haemorrhages Pixel Accuracy: 0.4859
+	Hard Exudates IoU: 0.5919,	Hard Exudates Dice Coefficient: 0.7436,	Hard Exudates Pixel Accuracy: 0.6718
+	Soft Exudates IoU: 0.4122,	Soft Exudates Dice Coefficient: 0.5838,	Soft Exudates Pixel Accuracy: 0.6544
+	Optic Disc IoU: 0.9045,	Optic Disc Dice Coefficient: 0.9499,	Optic Disc Pixel Accuracy: 0.9404
+Epoch 96 - Test Metrics:
+	Loss: 0.537112
+	Microaneurysms IoU: 0.2555,	Microaneurysms Dice Coefficient: 0.4070,	Microaneurysms Pixel Accuracy: 0.3364
+	Haemorrhages IoU: 0.3021,	Haemorrhages Dice Coefficient: 0.4641,	Haemorrhages Pixel Accuracy: 0.3588
+	Hard Exudates IoU: 0.1570,	Hard Exudates Dice Coefficient: 0.2714,	Hard Exudates Pixel Accuracy: 0.1617
+	Soft Exudates IoU: 0.4432,	Soft Exudates Dice Coefficient: 0.6142,	Soft Exudates Pixel Accuracy: 0.5880
+	Optic Disc IoU: 0.9146,	Optic Disc Dice Coefficient: 0.9554,	Optic Disc Pixel Accuracy: 0.9737
+
+Epoch 97 - Train Metrics:
+	Loss: 0.570646
+	Microaneurysms IoU: 0.2569,	Microaneurysms Dice Coefficient: 0.4087,	Microaneurysms Pixel Accuracy: 0.3459
+	Haemorrhages IoU: 0.4297,	Haemorrhages Dice Coefficient: 0.6011,	Haemorrhages Pixel Accuracy: 0.5342
+	Hard Exudates IoU: 0.6148,	Hard Exudates Dice Coefficient: 0.7615,	Hard Exudates Pixel Accuracy: 0.7161
+	Soft Exudates IoU: 0.3644,	Soft Exudates Dice Coefficient: 0.5342,	Soft Exudates Pixel Accuracy: 0.5405
+	Optic Disc IoU: 0.8921,	Optic Disc Dice Coefficient: 0.9430,	Optic Disc Pixel Accuracy: 0.9259
+Epoch 97 - Test Metrics:
+	Loss: 0.540174
+	Microaneurysms IoU: 0.2489,	Microaneurysms Dice Coefficient: 0.3986,	Microaneurysms Pixel Accuracy: 0.3188
+	Haemorrhages IoU: 0.2987,	Haemorrhages Dice Coefficient: 0.4600,	Haemorrhages Pixel Accuracy: 0.3519
+	Hard Exudates IoU: 0.1567,	Hard Exudates Dice Coefficient: 0.2709,	Hard Exudates Pixel Accuracy: 0.1614
+	Soft Exudates IoU: 0.4373,	Soft Exudates Dice Coefficient: 0.6085,	Soft Exudates Pixel Accuracy: 0.5888
+	Optic Disc IoU: 0.9147,	Optic Disc Dice Coefficient: 0.9554,	Optic Disc Pixel Accuracy: 0.9741
+
+Epoch 98 - Train Metrics:
+	Loss: 0.556014
+	Microaneurysms IoU: 0.2530,	Microaneurysms Dice Coefficient: 0.4038,	Microaneurysms Pixel Accuracy: 0.3365
+	Haemorrhages IoU: 0.4317,	Haemorrhages Dice Coefficient: 0.6031,	Haemorrhages Pixel Accuracy: 0.5299
+	Hard Exudates IoU: 0.6017,	Hard Exudates Dice Coefficient: 0.7513,	Hard Exudates Pixel Accuracy: 0.6976
+	Soft Exudates IoU: 0.4470,	Soft Exudates Dice Coefficient: 0.6178,	Soft Exudates Pixel Accuracy: 0.6072
+	Optic Disc IoU: 0.9135,	Optic Disc Dice Coefficient: 0.9548,	Optic Disc Pixel Accuracy: 0.9533
+Epoch 98 - Test Metrics:
+	Loss: 0.538386
+	Microaneurysms IoU: 0.2517,	Microaneurysms Dice Coefficient: 0.4022,	Microaneurysms Pixel Accuracy: 0.3243
+	Haemorrhages IoU: 0.3049,	Haemorrhages Dice Coefficient: 0.4674,	Haemorrhages Pixel Accuracy: 0.3624
+	Hard Exudates IoU: 0.1583,	Hard Exudates Dice Coefficient: 0.2733,	Hard Exudates Pixel Accuracy: 0.1633
+	Soft Exudates IoU: 0.4405,	Soft Exudates Dice Coefficient: 0.6116,	Soft Exudates Pixel Accuracy: 0.5860
+	Optic Disc IoU: 0.9152,	Optic Disc Dice Coefficient: 0.9557,	Optic Disc Pixel Accuracy: 0.9738
+
+Epoch 99 - Train Metrics:
+	Loss: 0.572579
+	Microaneurysms IoU: 0.2618,	Microaneurysms Dice Coefficient: 0.4150,	Microaneurysms Pixel Accuracy: 0.3494
+	Haemorrhages IoU: 0.4020,	Haemorrhages Dice Coefficient: 0.5735,	Haemorrhages Pixel Accuracy: 0.4945
+	Hard Exudates IoU: 0.5937,	Hard Exudates Dice Coefficient: 0.7451,	Hard Exudates Pixel Accuracy: 0.6921
+	Soft Exudates IoU: 0.4391,	Soft Exudates Dice Coefficient: 0.6102,	Soft Exudates Pixel Accuracy: 0.6629
+	Optic Disc IoU: 0.8877,	Optic Disc Dice Coefficient: 0.9405,	Optic Disc Pixel Accuracy: 0.9512
+Epoch 99 - Test Metrics:
+	Loss: 0.537547
+	Microaneurysms IoU: 0.2567,	Microaneurysms Dice Coefficient: 0.4086,	Microaneurysms Pixel Accuracy: 0.3392
+	Haemorrhages IoU: 0.3072,	Haemorrhages Dice Coefficient: 0.4701,	Haemorrhages Pixel Accuracy: 0.3667
+	Hard Exudates IoU: 0.1607,	Hard Exudates Dice Coefficient: 0.2768,	Hard Exudates Pixel Accuracy: 0.1660
+	Soft Exudates IoU: 0.4435,	Soft Exudates Dice Coefficient: 0.6144,	Soft Exudates Pixel Accuracy: 0.5821
+	Optic Disc IoU: 0.9160,	Optic Disc Dice Coefficient: 0.9562,	Optic Disc Pixel Accuracy: 0.9732
+
+Epoch 100 - Train Metrics:
+	Loss: 0.578774
+	Microaneurysms IoU: 0.2688,	Microaneurysms Dice Coefficient: 0.4237,	Microaneurysms Pixel Accuracy: 0.3653
+	Haemorrhages IoU: 0.4260,	Haemorrhages Dice Coefficient: 0.5975,	Haemorrhages Pixel Accuracy: 0.5090
+	Hard Exudates IoU: 0.6026,	Hard Exudates Dice Coefficient: 0.7520,	Hard Exudates Pixel Accuracy: 0.7322
+	Soft Exudates IoU: 0.4222,	Soft Exudates Dice Coefficient: 0.5937,	Soft Exudates Pixel Accuracy: 0.6656
+	Optic Disc IoU: 0.9089,	Optic Disc Dice Coefficient: 0.9523,	Optic Disc Pixel Accuracy: 0.9498
+Epoch 100 - Test Metrics:
+	Loss: 0.536507
+	Microaneurysms IoU: 0.2597,	Microaneurysms Dice Coefficient: 0.4123,	Microaneurysms Pixel Accuracy: 0.3526
+	Haemorrhages IoU: 0.3130,	Haemorrhages Dice Coefficient: 0.4768,	Haemorrhages Pixel Accuracy: 0.3793
+	Hard Exudates IoU: 0.1618,	Hard Exudates Dice Coefficient: 0.2785,	Hard Exudates Pixel Accuracy: 0.1674
+	Soft Exudates IoU: 0.4479,	Soft Exudates Dice Coefficient: 0.6187,	Soft Exudates Pixel Accuracy: 0.5902
+	Optic Disc IoU: 0.9180,	Optic Disc Dice Coefficient: 0.9572,	Optic Disc Pixel Accuracy: 0.9703
+

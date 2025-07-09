@@ -1,0 +1,212 @@
+Number of parameters = 25610312
+Number of trainable parameters = 25610312
+Epoch 1 - Train Metrics:
+	RG Loss: 0.4503,	RG Accuracy: 27.3608
+	MER Loss: 0.1467,	MER Accuracy: 46.4891
+Epoch 1 - Test Metrics:
+	RG Loss: 0.4509,	RG Accuracy: 31.0680
+	MER Loss: 0.1535,	MER Accuracy: 47.5728
+
+Epoch 2 - Train Metrics:
+	RG Loss: 0.3004,	RG Accuracy: 54.4794
+	MER Loss: 0.0914,	MER Accuracy: 79.9031
+Epoch 2 - Test Metrics:
+	RG Loss: 0.5591,	RG Accuracy: 38.8350
+	MER Loss: 0.6973,	MER Accuracy: 67.9612
+
+Epoch 3 - Train Metrics:
+	RG Loss: 0.2356,	RG Accuracy: 55.4479
+	MER Loss: 0.0786,	MER Accuracy: 78.4504
+Epoch 3 - Test Metrics:
+	RG Loss: 0.3363,	RG Accuracy: 45.6311
+	MER Loss: 0.1096,	MER Accuracy: 69.9029
+
+Epoch 4 - Train Metrics:
+	RG Loss: 0.1843,	RG Accuracy: 56.4165
+	MER Loss: 0.0638,	MER Accuracy: 83.0508
+Epoch 4 - Test Metrics:
+	RG Loss: 0.4352,	RG Accuracy: 57.2816
+	MER Loss: 0.1109,	MER Accuracy: 76.6990
+
+Epoch 5 - Train Metrics:
+	RG Loss: 0.1552,	RG Accuracy: 60.7748
+	MER Loss: 0.0649,	MER Accuracy: 83.7772
+Epoch 5 - Test Metrics:
+	RG Loss: 0.3962,	RG Accuracy: 44.6602
+	MER Loss: 0.1320,	MER Accuracy: 67.9612
+
+Epoch 6 - Train Metrics:
+	RG Loss: 0.1335,	RG Accuracy: 69.0073
+	MER Loss: 0.0607,	MER Accuracy: 84.2615
+Epoch 6 - Test Metrics:
+	RG Loss: 0.4968,	RG Accuracy: 55.3398
+	MER Loss: 0.1151,	MER Accuracy: 75.7282
+
+Epoch 7 - Train Metrics:
+	RG Loss: 0.1453,	RG Accuracy: 66.1017
+	MER Loss: 0.0582,	MER Accuracy: 84.5036
+Epoch 7 - Test Metrics:
+	RG Loss: 0.4103,	RG Accuracy: 41.7476
+	MER Loss: 0.1555,	MER Accuracy: 70.8738
+
+Epoch 8 - Train Metrics:
+	RG Loss: 0.1228,	RG Accuracy: 65.1332
+	MER Loss: 0.0562,	MER Accuracy: 84.0194
+Epoch 8 - Test Metrics:
+	RG Loss: 0.6031,	RG Accuracy: 47.5728
+	MER Loss: 0.1075,	MER Accuracy: 76.6990
+
+Epoch 9 - Train Metrics:
+	RG Loss: 0.0998,	RG Accuracy: 70.7022
+	MER Loss: 0.0467,	MER Accuracy: 85.7143
+Epoch 9 - Test Metrics:
+	RG Loss: 0.4718,	RG Accuracy: 52.4272
+	MER Loss: 0.1077,	MER Accuracy: 80.5825
+
+Epoch 10 - Train Metrics:
+	RG Loss: 0.0878,	RG Accuracy: 71.4286
+	MER Loss: 0.0413,	MER Accuracy: 88.6199
+Epoch 10 - Test Metrics:
+	RG Loss: 0.3875,	RG Accuracy: 55.3398
+	MER Loss: 0.1049,	MER Accuracy: 77.6699
+
+Epoch 11 - Train Metrics:
+	RG Loss: 0.0821,	RG Accuracy: 72.1550
+	MER Loss: 0.0391,	MER Accuracy: 86.1985
+Epoch 11 - Test Metrics:
+	RG Loss: 0.3848,	RG Accuracy: 54.3689
+	MER Loss: 0.1147,	MER Accuracy: 77.6699
+
+Epoch 12 - Train Metrics:
+	RG Loss: 0.0718,	RG Accuracy: 76.5133
+	MER Loss: 0.0371,	MER Accuracy: 88.3777
+Epoch 12 - Test Metrics:
+	RG Loss: 0.4434,	RG Accuracy: 52.4272
+	MER Loss: 0.1163,	MER Accuracy: 77.6699
+
+Epoch 13 - Train Metrics:
+	RG Loss: 0.0580,	RG Accuracy: 78.9346
+	MER Loss: 0.0329,	MER Accuracy: 90.0726
+Epoch 13 - Test Metrics:
+	RG Loss: 0.5296,	RG Accuracy: 58.2524
+	MER Loss: 0.1192,	MER Accuracy: 80.5825
+
+Epoch 14 - Train Metrics:
+	RG Loss: 0.0622,	RG Accuracy: 80.6295
+	MER Loss: 0.0352,	MER Accuracy: 89.3462
+Epoch 14 - Test Metrics:
+	RG Loss: 0.5050,	RG Accuracy: 57.2816
+	MER Loss: 0.1122,	MER Accuracy: 78.6408
+
+Epoch 15 - Train Metrics:
+	RG Loss: 0.0518,	RG Accuracy: 80.3874
+	MER Loss: 0.0306,	MER Accuracy: 90.5569
+Epoch 15 - Test Metrics:
+	RG Loss: 0.4853,	RG Accuracy: 59.2233
+	MER Loss: 0.1206,	MER Accuracy: 79.6117
+
+Epoch 16 - Train Metrics:
+	RG Loss: 0.0515,	RG Accuracy: 82.3245
+	MER Loss: 0.0351,	MER Accuracy: 89.3462
+Epoch 16 - Test Metrics:
+	RG Loss: 0.5700,	RG Accuracy: 58.2524
+	MER Loss: 0.1157,	MER Accuracy: 81.5534
+
+Epoch 17 - Train Metrics:
+	RG Loss: 0.0474,	RG Accuracy: 82.5666
+	MER Loss: 0.0252,	MER Accuracy: 91.0412
+Epoch 17 - Test Metrics:
+	RG Loss: 0.5623,	RG Accuracy: 57.2816
+	MER Loss: 0.1169,	MER Accuracy: 80.5825
+
+Epoch 18 - Train Metrics:
+	RG Loss: 0.0539,	RG Accuracy: 80.8717
+	MER Loss: 0.0287,	MER Accuracy: 90.5569
+Epoch 18 - Test Metrics:
+	RG Loss: 0.5606,	RG Accuracy: 55.3398
+	MER Loss: 0.1213,	MER Accuracy: 81.5534
+
+Epoch 19 - Train Metrics:
+	RG Loss: 0.0398,	RG Accuracy: 83.5351
+	MER Loss: 0.0266,	MER Accuracy: 92.4939
+Epoch 19 - Test Metrics:
+	RG Loss: 0.5760,	RG Accuracy: 56.3107
+	MER Loss: 0.1216,	MER Accuracy: 82.5243
+
+Epoch 20 - Train Metrics:
+	RG Loss: 0.0440,	RG Accuracy: 83.0508
+	MER Loss: 0.0262,	MER Accuracy: 91.2833
+Epoch 20 - Test Metrics:
+	RG Loss: 0.5872,	RG Accuracy: 55.3398
+	MER Loss: 0.1226,	MER Accuracy: 84.4660
+
+Epoch 21 - Train Metrics:
+	RG Loss: 0.0376,	RG Accuracy: 84.9879
+	MER Loss: 0.0241,	MER Accuracy: 92.7361
+Epoch 21 - Test Metrics:
+	RG Loss: 0.5741,	RG Accuracy: 56.3107
+	MER Loss: 0.1253,	MER Accuracy: 83.4951
+
+Epoch 22 - Train Metrics:
+	RG Loss: 0.0448,	RG Accuracy: 82.8087
+	MER Loss: 0.0227,	MER Accuracy: 93.2203
+Epoch 22 - Test Metrics:
+	RG Loss: 0.5876,	RG Accuracy: 57.2816
+	MER Loss: 0.1292,	MER Accuracy: 82.5243
+
+Epoch 23 - Train Metrics:
+	RG Loss: 0.0329,	RG Accuracy: 87.6513
+	MER Loss: 0.0256,	MER Accuracy: 91.2833
+Epoch 23 - Test Metrics:
+	RG Loss: 0.6197,	RG Accuracy: 58.2524
+	MER Loss: 0.1297,	MER Accuracy: 84.4660
+
+Epoch 24 - Train Metrics:
+	RG Loss: 0.0322,	RG Accuracy: 83.5351
+	MER Loss: 0.0219,	MER Accuracy: 91.7676
+Epoch 24 - Test Metrics:
+	RG Loss: 0.6248,	RG Accuracy: 54.3689
+	MER Loss: 0.1284,	MER Accuracy: 83.4951
+
+Epoch 25 - Train Metrics:
+	RG Loss: 0.0364,	RG Accuracy: 86.6828
+	MER Loss: 0.0225,	MER Accuracy: 92.2518
+Epoch 25 - Test Metrics:
+	RG Loss: 0.6017,	RG Accuracy: 54.3689
+	MER Loss: 0.1286,	MER Accuracy: 81.5534
+
+Epoch 26 - Train Metrics:
+	RG Loss: 0.0342,	RG Accuracy: 84.5036
+	MER Loss: 0.0208,	MER Accuracy: 91.5254
+Epoch 26 - Test Metrics:
+	RG Loss: 0.5795,	RG Accuracy: 54.3689
+	MER Loss: 0.1288,	MER Accuracy: 80.5825
+
+Epoch 27 - Train Metrics:
+	RG Loss: 0.0287,	RG Accuracy: 87.4092
+	MER Loss: 0.0194,	MER Accuracy: 92.4939
+Epoch 27 - Test Metrics:
+	RG Loss: 0.5815,	RG Accuracy: 54.3689
+	MER Loss: 0.1304,	MER Accuracy: 80.5825
+
+Epoch 28 - Train Metrics:
+	RG Loss: 0.0299,	RG Accuracy: 86.6828
+	MER Loss: 0.0241,	MER Accuracy: 92.2518
+Epoch 28 - Test Metrics:
+	RG Loss: 0.5783,	RG Accuracy: 54.3689
+	MER Loss: 0.1303,	MER Accuracy: 80.5825
+
+Epoch 29 - Train Metrics:
+	RG Loss: 0.0292,	RG Accuracy: 84.5036
+	MER Loss: 0.0203,	MER Accuracy: 93.4625
+Epoch 29 - Test Metrics:
+	RG Loss: 0.5798,	RG Accuracy: 54.3689
+	MER Loss: 0.1307,	MER Accuracy: 81.5534
+
+Epoch 30 - Train Metrics:
+	RG Loss: 0.0308,	RG Accuracy: 84.7458
+	MER Loss: 0.0199,	MER Accuracy: 93.7046
+Epoch 30 - Test Metrics:
+	RG Loss: 0.5888,	RG Accuracy: 54.3689
+	MER Loss: 0.1311,	MER Accuracy: 81.5534
+
