@@ -13,7 +13,7 @@ from torch.amp import GradScaler
 
 from classifier import Classifier, train_one_epoch, evaluate, FocalLoss, IDRiDClassification
 
-DEVICE = "cuda:6"
+DEVICE = "cuda"
 SEED_VALUE = 42
 torch.cuda.empty_cache()
 

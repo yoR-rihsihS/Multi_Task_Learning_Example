@@ -13,7 +13,7 @@ from torch.amp import GradScaler
 
 from segmentation import DeepLabV3Plus, FocalLoss, train_one_epoch, evaluate, get_transforms, IDRiDSegmentation, DiceLoss
 
-DEVICE = "cuda:6"
+DEVICE = "cuda"
 SEED_VALUE = 42
 torch.cuda.empty_cache()
 
