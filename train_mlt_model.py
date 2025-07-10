@@ -179,7 +179,7 @@ if __name__=="__main__":
         "norm_std": [0.229, 0.224, 0.225],
     
         "epochs": 100,
-        "iterations": 30,
+        "iterations": 10,
         "learning_rate": 0.0003,
         "backbone_learning_rate": 0.00003,
         "weight_decay": 0.0001,
