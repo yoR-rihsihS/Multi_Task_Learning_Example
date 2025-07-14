@@ -13,7 +13,7 @@ from torch.amp import GradScaler
 
 from classifier import Classifier, train_one_epoch, evaluate, FocalLoss, IDRiDClassification
 
-DEVICE = "cuda"
+DEVICE = "cuda:6"
 SEED_VALUE = 42
 torch.cuda.empty_cache()
 
@@ -59,7 +59,7 @@ def main(cfg):
     model = Classifier(backbone_name=cfg["backbone"], num_classes_1=cfg["num_classes_1"], num_classes_2=cfg["num_classes_2"])
     model.to(DEVICE)
 
-    criterion = FocalLoss(alpha=0.75, gamma=4.0, size_average=True, ignore_index=-1)
+    criterion = FocalLoss(alpha=None, gamma=4.0, size_average=True, ignore_index=-1)
 
     num_parameters = sum(p.numel() for p in model.parameters())
     print("Number of parameters =", num_parameters)

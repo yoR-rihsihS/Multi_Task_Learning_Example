@@ -7,6 +7,20 @@ from torch.utils.data import Dataset
 from torchvision.transforms import v2, InterpolationMode
 
 class IDRiDClassification(Dataset):
+    """
+    PyTorch Dataset class for IDRiD disease grading image classification.
+    Args:
+        - path (str): Path to the CSV file containing image filenames and ground truth labels for both classification tasks.
+        - size (list or tuple): Target size for resizing images, given as (height, width).
+        - normalize_mean (list or tuple or None): Mean values for normalization per channel.
+        - normalize_std (list or tuple or None): Standard deviation values for normalization per channel.
+        - mode (str): Dataset mode, either "train" or "eval". Determines directory paths and whether augmentations are applied. Default: "train".
+    Returns:
+        - Tuple:
+            - img (tensor): Transformed image tensor of shape (3, H, W), dtype float32.
+            - gt_class_1 (tensor): First ground truth class label tensor, dtype long.
+            - gt_class_2 (tensor): Second ground truth class label tensor, dtype long.
+    """
     def __init__(self, path, size, normalize_mean, normalize_std, mode="train"):
         assert mode in ["train", "eval"], f"mode {mode} should be either 'train' or 'eval'."
         self.data_frame = pd.read_csv(path).iloc[:, :3]

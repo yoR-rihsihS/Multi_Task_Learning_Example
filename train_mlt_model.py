@@ -13,7 +13,7 @@ from torch.amp import GradScaler
 
 from codebase import MultiTaskModel, Criterion, IDRiDSegmentation, IDRiDClassification, get_seg_transforms, evaluate_model, train_model
 
-DEVICE = 'cuda'
+DEVICE = 'cuda:6'
 SEED_VALUE = 42
 torch.cuda.empty_cache()
 

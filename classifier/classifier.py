@@ -4,6 +4,17 @@ import torch.nn as nn
 from torchvision.models import resnet50, ResNet50_Weights, resnet101, ResNet101_Weights, resnet152, ResNet152_Weights
 
 class Classifier(nn.Module):
+    """
+    A multi-head classifier model using a ResNet backbone.
+    Args:
+        - backbone_name (str): The backbone name to be used as feature extractor, can be one of 'resnet50' or 'resnet101' or 'resnet152'.
+        - num_classes_1 (int): Number of output classes for the first classifier head.
+        - num_classes_2 (nn.Sequential): Number of output classes for the second classifier head.
+    Returns:
+        - Tuple (tensor, tensor):
+            - Output logits from the first classifier head of shape (batch_size, num_classes_1).
+            - Output logits from the second classifier head of shape (batch_size, num_classes_2).
+    """
     def __init__(self, backbone_name, num_classes_1, num_classes_2):
         super(Classifier, self).__init__()
         assert backbone_name in ["resnet50", "resnet101", "resnet152"], f"backbone_name {backbone_name} must be one of 'resnet50' or 'resnet101' or 'resnet152'"
@@ -14,18 +25,19 @@ class Classifier(nn.Module):
         else:
             model = resnet50(weights=ResNet50_Weights.IMAGENET1K_V2)
 
+        # input shape: [bs, 3, h, w]
         self.backbone = nn.Sequential(
             nn.Sequential(
                 model.conv1,
                 model.bn1,
                 model.relu,
                 model.maxpool,
-            ),
-            model.layer1,
-            model.layer2,
-            model.layer3,
-            model.layer4,
-            model.avgpool,
+            ),                          # shape: [bs, 64, h//4, w//4]
+            model.layer1,               # shape: [bs, 256, h//4, w//4]
+            model.layer2,               # shape: [bs, 512, h//8, w//8]
+            model.layer3,               # shape: [bs, 1024, h//16, w//16]
+            model.layer4,               # shape: [bs, 2048, h//32, w//32]
+            model.avgpool,              # shape: [bs, 2048, 1, 1]
         )
 
         self.classifier_1 = nn.Sequential(
@@ -43,6 +55,7 @@ class Classifier(nn.Module):
         )
 
     def forward(self, x):
-        features = self.backbone(x)
-        features = torch.flatten(features, start_dim=1)
-        return self.classifier_1(features), self.classifier_2(features)
+        # x.shape: [bs, 3, h, w]
+        features = self.backbone(x) # shape: [bs, 2048, 1, 1]
+        features = torch.flatten(features, start_dim=1) # shape: [bs, 2048]
+        return self.classifier_1(features), self.classifier_2(features) # shapes: ([bs, num_classses_1], [bs, num_classes_2])
