@@ -132,6 +132,15 @@ Training log can be found [saved/mlt_train_log.txt](./saved/mlt_train_log.txt) a
 </tr>
 </table>
 
+<table style="width: 100%;">
+<tr>
+    <td>
+        <img src="./saved/loss_values.jpeg" style="width: 100%;"/><br/>
+        Loss dict contents while training the model.
+    </td>
+</tr>
+</table>
+
 ## Visualization of Results:
 
 <table style="width: 100%;">
